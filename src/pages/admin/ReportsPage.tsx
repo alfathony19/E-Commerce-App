@@ -64,7 +64,7 @@ const ReportsPage = () => {
     try {
       await addDoc(collection(db, "reports"), {
         createdAt: serverTimestamp(),
-        total: orders.reduce((sum, o) => sum + o.total, 0),
+        total: orders.reduce<number>((sum, o) => sum + o.total, 0),
         orders: orders.length,
         chart: chartData,
       });
