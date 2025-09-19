@@ -11,6 +11,24 @@ service cloud.firestore {
 
   match /databases/{database}/documents {
 
+    // ✅ Produk bisa dibaca publik
+    match /products/{productId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // ✅ Kategori publik juga
+    match /categories/{categoryId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // ✅ Banner / slider
+    match /banners/{bannerId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
     // users
     match /users/{userId} {
       allow create: if isSignedIn();
@@ -20,8 +38,6 @@ service cloud.firestore {
     // orders
     match /orders/{orderId} {
       allow create: if isSignedIn();
-
-      // user boleh baca/update/delete order miliknya
       allow read, update, delete: if isAdmin()
         || (isSignedIn() && (
             resource.data.owner == request.auth.uid ||
@@ -38,9 +54,9 @@ service cloud.firestore {
     }
 
     // promos
-    match /Promos/{promoId} {
-      allow read: if true;       // publik bisa baca
-      allow write: if isAdmin(); // cuma admin bisa nulis
+    match /promos/{promoId} {
+      allow read: if true;
+      allow write: if isAdmin();
     }
 
     // reviews
@@ -67,9 +83,9 @@ service cloud.firestore {
       allow read, write: if isAdmin();
     }
 
-    // fallback
+    // fallback — kalau gak ada match, default: deny (biar aman)
     match /{document=**} {
-      allow read, write: if isSignedIn();
+      allow read, write: if false;
     }
   }
 }
