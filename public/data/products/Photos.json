@@ -1,0 +1,342 @@
+[
+  {
+    "id": "PHT001",
+    "category": "Photos",
+    "nama": "Pas Foto 2x3 cm",
+    "rating": [
+      { "user": "Rina", "bintang": 5, "komentar": "Warna tajam dan jelas." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.masbroprinting.com/liteprint/application/liteprint/masbro/assets/product_image/1672817846408-PAS_FOTO_(2).jpg",
+        "image2": "https://naevaweb.com/userfiles/uploads/ubah-ukuran-foto-pas-foto-2x3.jpg",
+        "image3": "https://siplah-oss.tokoladang.co.id/merchant/51830/product/sBXaTi8AWrd7IoZY4CsaXVhXZHVFTaAHMVpTZbbg.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 50,
+    "satuan": "lembar",
+    "ukuran": "2x3 cm",
+    "harga": 2000,
+    "harga_promo": 1800,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Pas Foto",
+      "bahan": "Photo Paper Glossy",
+      "resolusi": "300 dpi"
+    },
+    "deskripsi": "Pas foto ukuran 2x3 cm, warna tajam dan cocok untuk keperluan dokumen."
+  },
+  {
+    "id": "PHT002",
+    "category": "Photos",
+    "nama": "Pas Foto 3x4 cm",
+    "rating": [
+      { "user": "Agus", "bintang": 4, "komentar": "Cukup bagus, warna akurat." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://i.pinimg.com/474x/f1/d8/40/f1d8401cfdf0c5d3e8e8d539399da33c.jpg",
+        "image2": "https://dianisa.com/wp-content/uploads/2023/03/Ukuran-Pas-Foto-Sesuai-Standar.jpg",
+        "image3": "https://naevaweb.com/userfiles/uploads/ubah-ukuran-foto-pas-foto-3x4.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 50,
+    "satuan": "lembar",
+    "ukuran": "3x4 cm",
+    "harga": 2500,
+    "harga_promo": 2200,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Pas Foto",
+      "bahan": "Photo Paper Glossy",
+      "resolusi": "300 dpi"
+    },
+    "deskripsi": "Pas foto ukuran 3x4 cm, cocok untuk dokumen resmi dan lamaran kerja."
+  },
+  {
+    "id": "PHT003",
+    "category": "Photos",
+    "nama": "Foto 4R",
+    "rating": [
+      { "user": "Lina", "bintang": 5, "komentar": "Warna hidup, tajam." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.anugerahprint.com/liteprint/application/liteprint/anugerah/assets/product_image/1610426299318-Cetak_Foto_4R_(_4_x_6_Inch_).jpg",
+        "image2": "https://id-live-01.slatic.net/p/7301a78543a93d18a906810de5ab7a60.jpg",
+        "image3": "https://img.lazcdn.com/g/p/a32d383c8ded2327d45bc30b2a338c6f.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 100,
+    "satuan": "lembar",
+    "ukuran": "4R (10x15 cm)",
+    "harga": 5000,
+    "harga_promo": 4500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Foto Cetak",
+      "bahan": "Photo Paper Glossy",
+      "resolusi": "300 dpi"
+    },
+    "deskripsi": "Foto 4R untuk album, cetak tajam dan warna hidup."
+  },
+  {
+    "id": "PHT004",
+    "category": "Photos",
+    "nama": "Foto 5R",
+    "rating": [
+      {
+        "user": "Tono",
+        "bintang": 4,
+        "komentar": "Kualitas bagus tapi agak mahal."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://img.lazcdn.com/g/p/81720d4134cf31a90a23c650463b9494.jpg_720x720q80.jpg",
+        "image2": "https://img.lazcdn.com/g/ff/kf/S614a836b7aaf43f59eeadbc1e098dccfI.jpg_360x360q80.jpg",
+        "image3": "https://filebroker-cdn.lazada.co.id/kf/S5ea09b60aa4e4c0abeec3419fd7afa8cM.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 80,
+    "satuan": "lembar",
+    "ukuran": "5R (13x18 cm)",
+    "harga": 8000,
+    "harga_promo": 7000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Foto Cetak",
+      "bahan": "Photo Paper Glossy",
+      "resolusi": "300 dpi"
+    },
+    "deskripsi": "Foto 5R cetak tajam, cocok untuk frame maupun album."
+  },
+  {
+    "id": "PHT005",
+    "category": "Photos",
+    "nama": "Foto 8R",
+    "rating": [
+      {
+        "user": "Dian",
+        "bintang": 5,
+        "komentar": "Sangat memuaskan, warna natural."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.anugerahprint.com/liteprint/application/liteprint/anugerah/assets/product_image/1611310454321-Cetak_Foto_8R_(_8_x_10_Inch_).jpg",
+        "image2": "https://gratisongkir-storage.com/products/900x900/I7xjYBXJJJO9.jpg",
+        "image3": "https://www.tirtaanugrah.com/liteprint/application/liteprint/tirtaanugrah/assets/product_image/1594976892147-Cetak_Photo_4R-8Rp.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 60,
+    "satuan": "lembar",
+    "ukuran": "8R (20x25 cm)",
+    "harga": 15000,
+    "harga_promo": 13000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Foto Cetak",
+      "bahan": "Photo Paper Glossy",
+      "resolusi": "300 dpi"
+    },
+    "deskripsi": "Foto 8R cetak besar untuk dekorasi atau album pribadi."
+  },
+  {
+    "id": "PHT006",
+    "category": "Photos",
+    "nama": "Foto 10R",
+    "rating": [
+      {
+        "user": "Sari",
+        "bintang": 4,
+        "komentar": "Warna bagus, agak lambat pengerjaan."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://id-test-11.slatic.net/p/4fac5cbab579e3b3c2c333a4ac00d1a1.jpg",
+        "image2": "https://id-test-11.slatic.net/p/eb265bf64df20aa2e1bc740973a8537a.png",
+        "image3": "https://www.anugerahprint.com/liteprint/application/liteprint/anugerah/assets/product_image/1611310911324-Cetak_Foto_10RP_(_10_x_15_Inch_).jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 40,
+    "satuan": "lembar",
+    "ukuran": "10R (25x30 cm)",
+    "harga": 25000,
+    "harga_promo": 22000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Foto Cetak",
+      "bahan": "Photo Paper Glossy",
+      "resolusi": "300 dpi"
+    },
+    "deskripsi": "Foto 10R untuk display besar, warna hidup dan tajam."
+  },
+  {
+    "id": "PHT007",
+    "category": "Photos",
+    "nama": "Foto 12R",
+    "rating": [
+      {
+        "user": "Fajar",
+        "bintang": 5,
+        "komentar": "Kualitas premium, warna natural."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://weddinganpro.com/wp-content/uploads/2023/04/frame-mockup-2.jpg",
+        "image2": "https://img.lazcdn.com/g/p/0bfe65b682015b43e8f1ad7b99e6f22b.jpg_720x720q80.jpg",
+        "image3": "https://img.lazcdn.com/g/p/7a2646758e41d4a02d51a545f5632e6f.jpg_720x720q80.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 30,
+    "satuan": "lembar",
+    "ukuran": "12R (30x40 cm)",
+    "harga": 40000,
+    "harga_promo": 35000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Foto Cetak",
+      "bahan": "Photo Paper Glossy",
+      "resolusi": "300 dpi"
+    },
+    "deskripsi": "Foto 12R ukuran besar, ideal untuk frame atau pajangan."
+  },
+  {
+    "id": "PHT008",
+    "category": "Photos",
+    "nama": "Foto 16R",
+    "rating": [
+      { "user": "Lia", "bintang": 4, "komentar": "Tajam dan warna akurat." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://id-live-01.slatic.net/p/9b7fea487c3e88405aa4d5415463b2cd.jpg",
+        "image2": "https://filebroker-cdn.lazada.co.id/kf/S5f9a4c711ba44ac3ae2841e902ffd6daA.jpg",
+        "image3": "https://weddinganpro.com/wp-content/uploads/2023/04/frame-mockup-9-1024x1024.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "4 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 20,
+    "satuan": "lembar",
+    "ukuran": "16R (40x50 cm)",
+    "harga": 60000,
+    "harga_promo": 55000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Foto Cetak",
+      "bahan": "Photo Paper Glossy",
+      "resolusi": "300 dpi"
+    },
+    "deskripsi": "Foto 16R ukuran sangat besar, cocok untuk pajangan dan dekorasi dinding."
+  },
+  {
+    "id": "PHT009",
+    "category": "Photos",
+    "nama": "Foto 20R",
+    "rating": [
+      { "user": "Wawan", "bintang": 5, "komentar": "Super jelas dan tajam." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://img2.biggo.com/sh38JrtJIYEAEwhJjmmmmCTs2WGgXn7XitxOi1Z_pkAM/https:/filebroker-cdn.lazada.co.id/kf/S5535dc95f4a44996beb461093dad98c40.jpg",
+        "image2": "https://id-test-11.slatic.net/p/4d53bcfb7e91252c12227273c22d3b7e.jpg",
+        "image3": "https://id-test-11.slatic.net/p/ab8c6f963a954a798d7040af0ca62585.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "5 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 15,
+    "satuan": "lembar",
+    "ukuran": "20R (50x60 cm)",
+    "harga": 90000,
+    "harga_promo": 85000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Foto Cetak",
+      "bahan": "Photo Paper Glossy",
+      "resolusi": "300 dpi"
+    },
+    "deskripsi": "Foto 20R, kualitas premium untuk pajangan besar atau hadiah."
+  },
+  {
+    "id": "PHT010",
+    "category": "Photos",
+    "nama": "Foto 24R",
+    "rating": [
+      {
+        "user": "Dewi",
+        "bintang": 5,
+        "komentar": "Ukuran raksasa, sangat jelas."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.printsurabaya.com/liteprint/application/liteprint/printsurabaya/assets/product_image/1575879081186-cetak-foto-murah-printsurabaya.jpg",
+        "image2": "https://hibridaprint.com/image/cache//catalog/aneka_stiker/02_photo/photo_kanvas_24r-600x600.jpg",
+        "image3": "https://www.anugerahprint.com/liteprint/application/liteprint/anugerah/assets/product_image/1607669582335-Cetak_Foto_24R_(_24_x_31_5_Inch_)_Bahan_Canvas.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "5 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 10,
+    "satuan": "lembar",
+    "ukuran": "24R (60x80 cm)",
+    "harga": 120000,
+    "harga_promo": 110000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Foto Cetak",
+      "bahan": "Photo Paper Glossy",
+      "resolusi": "300 dpi"
+    },
+    "deskripsi": "Foto 24R ukuran raksasa, sangat cocok untuk pajangan besar atau dekorasi dinding."
+  }
+]

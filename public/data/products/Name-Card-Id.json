@@ -1,0 +1,328 @@
+[
+  {
+    "id": "NC001",
+    "category": "Name-Card-Id",
+    "nama": "Kartu Nama Standard Glossy",
+    "rating": [
+      {
+        "user": "Rina",
+        "bintang": 5,
+        "komentar": "Warna tajam dan profesional."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.grafur.com/images/product/kartu-nama/kartu-nama-standar-2-sisi/kn_1.jpg",
+        "image2": "https://www.grafur.com/images/product/kartu-nama/kartu-nama-standar-2-sisi/kn_4.jpg",
+        "image3": "https://www.grafur.com/images/product/kartu-nama/kartu-nama-standar-2-sisi/kn_77.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 100,
+    "satuan": "pcs",
+    "ukuran": "90x55 mm",
+    "harga": 10000,
+    "harga_promo": 9000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "kertas": "Art Paper 300gsm",
+      "finishing": "Glossy",
+      "jenis": "Standard"
+    },
+    "deskripsi": "Kartu nama standar ukuran 90x55 mm dengan finishing glossy, cocok untuk keperluan profesional."
+  },
+  {
+    "id": "NC002",
+    "category": "Name-Card-Id",
+    "nama": "Kartu Nama Premium Matte",
+    "rating": [
+      { "user": "Agus", "bintang": 4, "komentar": "Elegan tapi agak tebal." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://www.beedigitalk.web.id/wp-content/uploads/2023/05/kn2.jpg",
+        "image2": "https://png.pngtree.com/template/20230210/ourmid/pngtree-premium-business-card-image_1949906.jpg",
+        "image3": "https://api.bintangsempurna.co.id/images/product/1731036121-OelM1MzzOD.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 100,
+    "satuan": "pcs",
+    "ukuran": "90x55 mm",
+    "harga": 15000,
+    "harga_promo": 13000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "kertas": "Art Paper 350gsm",
+      "finishing": "Matte",
+      "jenis": "Premium"
+    },
+    "deskripsi": "Kartu nama premium dengan finishing matte, memberikan kesan elegan dan profesional."
+  },
+  {
+    "id": "NC003",
+    "category": "Name-Card-Id",
+    "nama": "ID Card PVC",
+    "rating": [{ "user": "Lina", "bintang": 5, "komentar": "Kuat dan awet." }],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://centralprint.co.id/centralprint/fotoproduk/20211109125148.jpg",
+        "image2": "https://www.primagraphia.co.id/images/product/idcard_satuan_2292x2715_20240522091632_384.jpg",
+        "image3": "https://printid.co.id/wp-content/uploads/2023/01/ID-Card-Karyawan-White-Red.png"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 50,
+    "satuan": "pcs",
+    "ukuran": "85x55 mm",
+    "harga": 20000,
+    "harga_promo": 18000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "PVC",
+      "finishing": "Glossy",
+      "jenis": "ID Card"
+    },
+    "deskripsi": "ID card berbahan PVC dengan finishing glossy, tahan lama dan profesional."
+  },
+  {
+    "id": "NC004",
+    "category": "Name-Card-Id",
+    "nama": "Kartu Nama Lipat",
+    "rating": [
+      {
+        "user": "Tono",
+        "bintang": 4,
+        "komentar": "Bisa dicetak dua sisi, bagus."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://www.bantengprint.com/bantengprint/fotoproduk/knlipat2.jpg",
+        "image2": "https://unblast.com/wp-content/uploads/2019/01/Folded-Business-Card-Mockup-4.jpg",
+        "image3": "https://ipprinting.my/wp-content/uploads/2022/08/Business-Card_Folding-Card-02-scaled.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 100,
+    "satuan": "pcs",
+    "ukuran": "90x55 mm",
+    "harga": 20000,
+    "harga_promo": 18000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "kertas": "Art Paper 300gsm",
+      "finishing": "Glossy",
+      "jenis": "Folding"
+    },
+    "deskripsi": "Kartu nama lipat dua sisi, cocok untuk menampilkan informasi tambahan."
+  },
+  {
+    "id": "NC005",
+    "category": "Name-Card-Id",
+    "nama": "Kartu Nama Luxury Emboss",
+    "rating": [
+      { "user": "Dian", "bintang": 5, "komentar": "Terlihat sangat mewah." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://printondemand.co.id/wp-content/uploads/2023/07/emboss-1.jpg",
+        "image2": "https://www.beedigitalk.web.id/wp-content/uploads/2024/02/kartu-nama-embos-foil-hot-stamp.jpg",
+        "image3": "https://www.beedigitalk.web.id/wp-content/uploads/2023/10/kartu-nama-tahan-air-premium.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 100,
+    "satuan": "pcs",
+    "ukuran": "90x55 mm",
+    "harga": 30000,
+    "harga_promo": 25000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "kertas": "Art Paper 350gsm",
+      "finishing": "Emboss",
+      "jenis": "Luxury"
+    },
+    "deskripsi": "Kartu nama luxury dengan emboss, memberikan kesan premium dan eksklusif."
+  },
+  {
+    "id": "NC006",
+    "category": "Name-Card-Id",
+    "nama": "ID Card PVC Laminated",
+    "rating": [
+      { "user": "Sari", "bintang": 4, "komentar": "Awet dan tahan gores." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://5.imimg.com/data5/SELLER/Default/2021/3/OJ/OP/UT/124836784/id-card.jpg",
+        "image2": "https://www.rayanzoffsetprinters.com/wp-content/uploads/2024/04/company-pvc-laminated-id-card-printing.jpg",
+        "image3": "https://5.imimg.com/data5/EJ/VO/MY-41365128/multicolor-id-card.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 50,
+    "satuan": "pcs",
+    "ukuran": "85x55 mm",
+    "harga": 25000,
+    "harga_promo": 22000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "PVC",
+      "finishing": "Laminated",
+      "jenis": "ID Card"
+    },
+    "deskripsi": "ID card PVC dengan laminasi, tahan lama dan aman dari goresan."
+  },
+  {
+    "id": "NC007",
+    "category": "Name-Card-Id",
+    "nama": "Kartu Nama Matte Minimalis",
+    "rating": [
+      { "user": "Fajar", "bintang": 5, "komentar": "Simple tapi elegan." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://printlagi.id/wp-content/uploads/2021/08/namecard_1ok.jpg",
+        "image2": "https://printlagi.id/wp-content/uploads/2023/02/prem_2.jpg",
+        "image3": "https://printlagi.id/wp-content/uploads/2021/08/premium_nm_3.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "1-2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 150,
+    "satuan": "pcs",
+    "ukuran": "90x55 mm",
+    "harga": 12000,
+    "harga_promo": 10000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "kertas": "Art Paper 300gsm",
+      "finishing": "Matte",
+      "jenis": "Minimalis"
+    },
+    "deskripsi": "Kartu nama minimalis dengan finishing matte, elegan dan simpel."
+  },
+  {
+    "id": "NC008",
+    "category": "Name-Card-Id",
+    "nama": "ID Card PVC Standar",
+    "rating": [
+      { "user": "Lia", "bintang": 4, "komentar": "Bagus tapi agak tipis." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://www.maestroprinting.com/liteprint/application/liteprint/maestro/assets/product_image/1561560282119-IMG_1829eds.jpg",
+        "image2": "https://www.flexiprint.id/image-product/img408-1695036354.jpg",
+        "image3": "https://printid.co.id/wp-content/uploads/2023/02/ID-Staff-Blue-White-850x850-1.png"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 100,
+    "satuan": "pcs",
+    "ukuran": "85x55 mm",
+    "harga": 20000,
+    "harga_promo": 18000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "bahan": "PVC",
+      "finishing": "Glossy",
+      "jenis": "Standar"
+    },
+    "deskripsi": "ID card standar PVC, cocok untuk keperluan identifikasi umum."
+  },
+  {
+    "id": "NC009",
+    "category": "Name-Card-Id",
+    "nama": "Kartu Nama Luxury Foil",
+    "rating": [
+      { "user": "Wawan", "bintang": 5, "komentar": "Keren dan elegan." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://img.freepik.com/vektor-gratis/templat-kartu-nama-foil-emas_23-2148874380.jpg",
+        "image2": "https://centralprint.co.id/centralprint/fotoproduk/20231102052845.jpg",
+        "image3": "https://png.pngtree.com/png-clipart/20210815/original/pngtree-business-card-template-gold-foil-design-png-image_6629051.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Full Color", "Emas"],
+    "quantity": 100,
+    "satuan": "pcs",
+    "ukuran": "90x55 mm",
+    "harga": 35000,
+    "harga_promo": 30000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "kertas": "Art Paper 350gsm",
+      "finishing": "Foil",
+      "jenis": "Luxury"
+    },
+    "deskripsi": "Kartu nama luxury dengan foil emas, memberikan kesan eksklusif dan premium."
+  },
+  {
+    "id": "NC010",
+    "category": "Name-Card-Id",
+    "nama": "Kartu Nama Standard Matte",
+    "rating": [
+      { "user": "Dewi", "bintang": 4, "komentar": "Bagus tapi agak tipis." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://jagoanprinting.com/wp-content/uploads/2022/09/produk-jagoan-printing-japri-digital-print-kartu-nama-standard-1.jpg",
+        "image2": "https://cdn.kibrispdr.org/data/65/desain-kartu-nama-gratis-13.jpg",
+        "image3": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5IYRbL-m9xQTZR7HOFpP6AdwGHa3Jtf3Ceq_sl3I_zcLUdp-yJE0hfwQnS2C_m_oKd6RwWm4RBZ4P1KevudTwsAegHpl97wMWtoLGm4X4a3vtVu_Z_exMjBsMuNjHHOmrCpJ7CnWRkZs/s1600/Template-Kartu-Nama-Psd.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 100,
+    "satuan": "pcs",
+    "ukuran": "90x55 mm",
+    "harga": 10000,
+    "harga_promo": 9000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "kertas": "Art Paper 300gsm",
+      "finishing": "Matte",
+      "jenis": "Standard"
+    },
+    "deskripsi": "Kartu nama standar ukuran 90x55 mm dengan finishing matte, cocok untuk keperluan profesional."
+  }
+]

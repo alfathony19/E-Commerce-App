@@ -1,0 +1,24 @@
+[
+  {
+    "userId": "USR001",
+    "email": "johndoe@example.com",
+    "role": "customer",
+    "profile": {
+      "fullName": "John Doe",
+      "phone": "+6281234567890",
+      "address": {
+        "street": "Jl. Merdeka No. 10",
+        "city": "Jakarta",
+        "province": "DKI Jakarta",
+        "postalCode": "10110",
+        "country": "Indonesia"
+      }
+    },
+    "wishlist": ["PRD001", "PRD005"],
+    "cart": [
+      { "productId": "PRD002", "quantity": 2 },
+      { "productId": "PRD004", "quantity": 1 }
+    ],
+    "createdAt": "2025-08-22T09:00:00Z"
+  }
+]

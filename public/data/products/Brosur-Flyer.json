@@ -1,0 +1,358 @@
+[
+  {
+    "id": "BRF001",
+    "category": "Brosur-Flyer",
+    "nama": "Brosur A4 4 Halaman Full Color",
+    "rating": [
+      {
+        "user": "Rina",
+        "bintang": 5,
+        "komentar": "Cetakan tajam dan warna hidup."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://images.tokopedia.net/img/cache/700/product-1/2018/4/4/5575791/5575791_cec11ecc-4f27-4bb1-8384-60924830e8e8_2048_2201.jpg",
+        "image2": "https://images.tokopedia.net/img/cache/500-square/product-1/2018/4/4/5575791/5575791_da8612ed-e751-42a4-9d89-ca7f0a104213_1864_1720.jpg",
+        "image3": "https://images.tokopedia.net/img/cache/700/VqbcmM/2020/11/25/8c1e88db-6a46-448e-893f-30050dbf14c7.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 10000,
+    "satuan": "lembar",
+    "ukuran": "A4",
+    "harga": 5000,
+    "harga_promo": 4500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "halaman": 4,
+      "kertas": "Art Paper 150gsm",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Brosur A4 4 halaman full color, cetakan tajam dan menarik."
+  },
+  {
+    "id": "BRF002",
+    "category": "Brosur-Flyer",
+    "nama": "Brosur A5 2 Halaman",
+    "rating": [
+      { "user": "Agus", "bintang": 4, "komentar": "Cukup bagus untuk promosi." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://snapy.co.id/gambar/artikel/article2_09_cetak_brosur1.jpg",
+        "image2": "https://digitalprinting.co.id/wp-content/uploads/2018/04/FlyerA4_2Lipat01.jpg",
+        "image3": "https://png.pngtree.com/template/20210108/ourlarge/pngtree-business-bi-fold-brochure-design-template-image_472501.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 200,
+    "satuan": "lembar",
+    "ukuran": "A5",
+    "harga": 3000,
+    "harga_promo": 2500,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "halaman": 2,
+      "kertas": "Art Paper 120gsm",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Brosur A5 2 halaman, cocok untuk promosi dan event singkat."
+  },
+  {
+    "id": "BRF003",
+    "category": "Brosur-Flyer",
+    "nama": "Flyer A5 Single Side",
+    "rating": [
+      {
+        "user": "Lina",
+        "bintang": 5,
+        "komentar": "Cocok untuk distribusi massal."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://d1wbcovc1jzt1a.cloudfront.net/maroondah/images/product/A4_A5_Flyer_SS_Portrait_with_BG_Page_872.jpg",
+        "image2": "https://theprintcompany.co.nz/cdn/shop/products/Luxury-A5-Shape.jpg",
+        "image3": "https://www.barrydesign.ie/wp-content/uploads/2016/04/a511.jpg"
+      }
+    ],
+    "label": "Rekomendasi",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 500,
+    "satuan": "lembar",
+    "ukuran": "A5",
+    "harga": 1500,
+    "harga_promo": 1200,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "halaman": 1,
+      "kertas": "Art Paper 120gsm",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Flyer A5 single side, cepat cetak dan siap distribusi."
+  },
+  {
+    "id": "BRF004",
+    "category": "Brosur-Flyer",
+    "nama": "Brosur A3 8 Halaman",
+    "rating": [
+      {
+        "user": "Tono",
+        "bintang": 4,
+        "komentar": "Cukup besar untuk promosi produk."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://img.freepik.com/vektor-premium/templat-desain-brosur-bisnis-modern_502874-701.jpg",
+        "image2": "https://img.freepik.com/vektor-premium/desain-brosur-8-halaman-ukuran-a4-brosur-bisnis-korporat-desain-majalah-bi-lipat-modern_481388-1068.jpg",
+        "image3": "https://img.freepik.com/vektor-premium/desain-profil-brosur-perusahaan-12-halaman-tata-letak-brosur-bisnis-ukuran-a4-desain-flyer-banyak-halaman_481388-1089.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 50,
+    "satuan": "lembar",
+    "ukuran": "A3",
+    "harga": 15000,
+    "harga_promo": 13000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "halaman": 8,
+      "kertas": "Art Paper 150gsm",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Brosur A3 8 halaman, ideal untuk katalog produk dan promosi besar."
+  },
+  {
+    "id": "BRF005",
+    "category": "Brosur-Flyer",
+    "nama": "Flyer A6 Single Side",
+    "rating": [
+      {
+        "user": "Dian",
+        "bintang": 5,
+        "komentar": "Ukuran kecil tapi cetakan jelas."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.oneinkjet.com/data/prod/1503280984_digital%20leaflet%201side.jpg",
+        "image2": "https://printingo.in/wp-content/uploads/2021/02/a5-leaflet-flyer-5.jpg",
+        "image3": "https://d1x3eomzsc6lfz.cloudfront.net/tradeprin/images/product/Product-Thumbnail-Custom-Printed-Flyers-Leaflets.png"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 1000,
+    "satuan": "lembar",
+    "ukuran": "A6",
+    "harga": 1000,
+    "harga_promo": 800,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "halaman": 1,
+      "kertas": "Art Paper 100gsm",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Flyer A6 single side, praktis untuk pembagian massal."
+  },
+  {
+    "id": "BRF006",
+    "category": "Brosur-Flyer",
+    "nama": "Brosur Lipat 3 A4",
+    "rating": [
+      {
+        "user": "Sari",
+        "bintang": 4,
+        "komentar": "Desain menarik, cocok untuk promosi."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://printonline.intirimbo.com/wp-content/uploads/2020/06/flyera4-lipet3.jpg",
+        "image2": "https://printonline.intirimbo.com/wp-content/uploads/2018/02/leaflet_thumb.jpg",
+        "image3": "https://pasarpackaging.com/cdn/shop/products/Brochure_ZFold_600x600_crop_center.png"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 300,
+    "satuan": "lembar",
+    "ukuran": "A4",
+    "harga": 6000,
+    "harga_promo": 5000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "halaman": 6,
+      "kertas": "Art Paper 150gsm",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Brosur lipat 3 halaman A4, desain menarik dan profesional."
+  },
+  {
+    "id": "BRF007",
+    "category": "Brosur-Flyer",
+    "nama": "Flyer A5 Double Side",
+    "rating": [
+      {
+        "user": "Fajar",
+        "bintang": 5,
+        "komentar": "Cetakan tajam dan warna kuat."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://printspot.in/wp-content/uploads/2019/09/Printspot_A5_Flyer_Double_02.jpg",
+        "image2": "https://www.oneinkjet.com/data/prod/1527236094_2%20side%20leaflet.jpg",
+        "image3": "https://printspot.in/wp-content/uploads/2019/09/Printspot_A5_Flyer_Double_01.jpg"
+      }
+    ],
+    "label": "Rekomendasi",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 400,
+    "satuan": "lembar",
+    "ukuran": "A5",
+    "harga": 2500,
+    "harga_promo": 2000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "halaman": 2,
+      "kertas": "Art Paper 120gsm",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Flyer A5 double side, cocok untuk promosi lebih detail."
+  },
+  {
+    "id": "BRF008",
+    "category": "Brosur-Flyer",
+    "nama": "Brosur A4 6 Halaman",
+    "rating": [
+      {
+        "user": "Lia",
+        "bintang": 4,
+        "komentar": "Cukup tebal dan warna bagus."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://www.shutterstock.com/image-vector/medical-healthcare-clinic-services-promotion-600nw-2661780477.jpg",
+        "image2": "https://www.shutterstock.com/image-vector/modern-square-trifold-brochure-design-600nw-2656437065.jpg",
+        "image3": "https://www.shutterstock.com/image-vector/professional-trifold-brochure-design-template-600nw-2609654213.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 80,
+    "satuan": "lembar",
+    "ukuran": "A4",
+    "harga": 8000,
+    "harga_promo": 7000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "halaman": 6,
+      "kertas": "Art Paper 150gsm",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Brosur A4 6 halaman, desain profesional untuk promosi."
+  },
+  {
+    "id": "BRF009",
+    "category": "Brosur-Flyer",
+    "nama": "Flyer A6 Double Side",
+    "rating": [
+      {
+        "user": "Andi",
+        "bintang": 5,
+        "komentar": "Cocok untuk distribusi massal."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://nukreationz.com/files/uploads/A6-Flyer-Double-Sided-Nukreationz.com_.ng_.jpg",
+        "image2": "https://neatideas.co.za/wp-content/uploads/2022/05/A6-flyer.png",
+        "image3": "https://img.freepik.com/vecteurs-libre/modele-depliant-affaires_52683-3664.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 800,
+    "satuan": "lembar",
+    "ukuran": "A6",
+    "harga": 1200,
+    "harga_promo": 1000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "halaman": 2,
+      "kertas": "Art Paper 100gsm",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Flyer A6 double side, praktis untuk promosi event atau toko."
+  },
+  {
+    "id": "BRF010",
+    "category": "Brosur-Flyer",
+    "nama": "Brosur Lipat 4 A4",
+    "rating": [
+      {
+        "user": "Dewi",
+        "bintang": 4,
+        "komentar": "Cetakan bagus, warna tajam."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://cdn.mockupnest.com/wp-content/uploads/edd/2023/11/07-Free-A4-A5-4-Fold-Brochure-Mockup-Preview.jpg",
+        "image2": "https://www.graphicpear.com/wp-content/uploads/2018/09/4-Fold-Brochure-Mockup.jpg",
+        "image3": "https://img.freepik.com/premium-psd/4-fold-brochure-mockup_592453-489.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 150,
+    "satuan": "lembar",
+    "ukuran": "A4",
+    "harga": 9000,
+    "harga_promo": 8000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "halaman": 8,
+      "kertas": "Art Paper 150gsm",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Brosur lipat 4 halaman A4, ideal untuk katalog dan promosi event."
+  }
+]

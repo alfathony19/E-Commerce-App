@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CAP001",
+    "category": "Coppy-and-Print",
+    "nama": "Print A4 Hitam Putih",
+    "rating": [
+      { "user": "Rina", "bintang": 5, "komentar": "Cepat dan jelas." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.cetakita.com/liteprint/application/liteprint/cetakita/assets/product_image/158639965546-print-dokumen-A4-bw-cetakita.jpg",
+        "image2": "https://www.tirtaanugrah.com/liteprint/application/liteprint/tirtaanugrah/assets/product_image/159497267646-HVS-80-Gsm-A4-BW-Hitam-Putih-2.jpg",
+        "image3": "https://gunajayaprinting.com/wp-content/uploads/2021/04/isi-makalah-scaled.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Hitam Putih"],
+    "quantity": 500,
+    "satuan": "lembar",
+    "ukuran": "A4",
+    "harga": 500,
+    "harga_promo": 450,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "kertas": "HVS 80gsm",
+      "jenis": "Print Laser",
+      "warna": "Hitam Putih"
+    },
+    "deskripsi": "Print dokumen A4 hitam putih berkualitas tinggi dan cepat."
+  },
+  {
+    "id": "CAP002",
+    "category": "Coppy-and-Print",
+    "nama": "Print A4 Full Color",
+    "rating": [
+      {
+        "user": "Agus",
+        "bintang": 4,
+        "komentar": "Warnanya tajam tapi agak lambat."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://www.print100.com/hk/NewUI/Images/letterhead/Self-order%20Platform_%E6%96%87%E5%84%80%E9%A1%9E_ProductImages_800x800px_%E5%BD%A9%E8%89%B2%E4%BF%A1%E7%B4%99.jpg",
+        "image2": "https://static.vecteezy.com/system/resources/previews/008/951/905/non_2x/corporate-business-letterhead-design-template-deisgn-vector.jpg",
+        "image3": "https://static.vecteezy.com/system/resources/previews/036/089/841/non_2x/modern-letterhead-design-business-template-vector.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "1-2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 200,
+    "satuan": "lembar",
+    "ukuran": "A4",
+    "harga": 1500,
+    "harga_promo": 1200,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "kertas": "Art Paper 120gsm",
+      "jenis": "Print Inkjet",
+      "warna": "Full Color"
+    },
+    "deskripsi": "Print dokumen A4 full color, cocok untuk poster, brosur, dan dokumen promosi."
+  },
+  {
+    "id": "CAP003",
+    "category": "Coppy-and-Print",
+    "nama": "Print A3 Hitam Putih",
+    "rating": [
+      { "user": "Lina", "bintang": 5, "komentar": "Bagus dan cepat." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://centralprint.co.id/centralprint/fotoproduk/a3bw1.jpg",
+        "image2": "https://lionprint.id/lionprint/fotoproduk/20211224201829.jpg",
+        "image3": "https://d3pyarv4eotqu4.cloudfront.net/okeprinto/images/product/PB_BBW_Small.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Hitam Putih"],
+    "quantity": 100,
+    "satuan": "lembar",
+    "ukuran": "A3",
+    "harga": 2000,
+    "harga_promo": 1800,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "kertas": "HVS 80gsm",
+      "jenis": "Print Laser",
+      "warna": "Hitam Putih"
+    },
+    "deskripsi": "Print dokumen A3 hitam putih, resolusi tinggi dan bersih."
+  },
+  {
+    "id": "CAP004",
+    "category": "Coppy-and-Print",
+    "nama": "Print A3 Full Color",
+    "rating": [
+      {
+        "user": "Tono",
+        "bintang": 4,
+        "komentar": "Warnanya oke tapi agak lama."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://printondemand.co.id/wp-content/uploads/2023/08/fc3-1.jpg",
+        "image2": "https://printondemand.co.id/wp-content/uploads/2023/08/fc2.jpg",
+        "image3": "https://printondemand.co.id/wp-content/uploads/2023/07/Untitled-1.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 50,
+    "satuan": "lembar",
+    "ukuran": "A3",
+    "harga": 5000,
+    "harga_promo": 4500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "kertas": "Art Paper 150gsm",
+      "jenis": "Print Inkjet",
+      "warna": "Full Color"
+    },
+    "deskripsi": "Print dokumen A3 full color, hasil tajam dan warna vibrant."
+  },
+  {
+    "id": "CAP005",
+    "category": "Coppy-and-Print",
+    "nama": "Print Legal Hitam Putih",
+    "rating": [
+      { "user": "Dian", "bintang": 5, "komentar": "Sangat jelas dan rapi." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://i0.wp.com/only-print.com/wp-content/uploads/2016/06/ukuran-folio-dan-legal.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Hitam Putih"],
+    "quantity": 300,
+    "satuan": "lembar",
+    "ukuran": "Legal",
+    "harga": 800,
+    "harga_promo": 700,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "kertas": "HVS 80gsm",
+      "jenis": "Print Laser",
+      "warna": "Hitam Putih"
+    },
+    "deskripsi": "Print dokumen ukuran Legal hitam putih, cepat dan rapi."
+  },
+  {
+    "id": "CAP006",
+    "category": "Coppy-and-Print",
+    "nama": "Print Legal Full Color",
+    "rating": [
+      { "user": "Sari", "bintang": 4, "komentar": "Cukup bagus warnanya." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://i0.wp.com/only-print.com/wp-content/uploads/2016/06/ukuran-folio-dan-legal.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "1-2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 100,
+    "satuan": "lembar",
+    "ukuran": "Legal",
+    "harga": 2500,
+    "harga_promo": 2000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "kertas": "Art Paper 120gsm",
+      "jenis": "Print Inkjet",
+      "warna": "Full Color"
+    },
+    "deskripsi": "Print dokumen Legal full color untuk kebutuhan presentasi dan promosi."
+  },
+  {
+    "id": "CAP007",
+    "category": "Coppy-and-Print",
+    "nama": "Print F4 Hitam Putih",
+    "rating": [
+      { "user": "Fajar", "bintang": 5, "komentar": "Rapi dan tajam." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://balimall.id/uploads/products/qk1332/Foto_Copy_Hitam_Putih_(1).jpg",
+        "image2": "https://siplah-oss.tokoladang.co.id/merchant/52026/product/k9rSqoYkPezuEyHfKpMSt2GDJJorYnke4tf76LYO.jpg",
+        "image3": "https://siplah-oss.tokoladang.co.id/merchant/30843/product/1InfRiFj0vbsqk4xiZUxxMQHDhsDbIzvZ4etTfBw.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Hitam Putih"],
+    "quantity": 150,
+    "satuan": "lembar",
+    "ukuran": "F4",
+    "harga": 1000,
+    "harga_promo": 900,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "kertas": "HVS 80gsm",
+      "jenis": "Print Laser",
+      "warna": "Hitam Putih"
+    },
+    "deskripsi": "Print dokumen F4 hitam putih berkualitas untuk keperluan kantor."
+  },
+  {
+    "id": "CAP008",
+    "category": "Coppy-and-Print",
+    "nama": "Print F4 Full Color",
+    "rating": [
+      { "user": "Lia", "bintang": 4, "komentar": "Warnanya cukup oke." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/12/22/0440def3-8d4b-4de1-bb72-0ab23669d036.jpg",
+        "image2": "https://www.flexiprint.id/image-product/img484-1695034957.jpg",
+        "image3": "https://printlagi.id/wp-content/uploads/2023/02/kop_sur_1.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 80,
+    "satuan": "lembar",
+    "ukuran": "F4",
+    "harga": 4000,
+    "harga_promo": 3500,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "kertas": "Art Paper 150gsm",
+      "jenis": "Print Inkjet",
+      "warna": "Full Color"
+    },
+    "deskripsi": "Print dokumen F4 full color, hasil cetak tajam dan profesional."
+  },
+  {
+    "id": "CAP009",
+    "category": "Coppy-and-Print",
+    "nama": "Print Letter Hitam Putih",
+    "rating": [
+      { "user": "Andi", "bintang": 5, "komentar": "Bagus, sesuai harapan." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.cetakita.com/liteprint/application/liteprint/cetakita/assets/product_image/158639965546-print-dokumen-A4-bw-cetakita.jpg",
+        "image2": "https://www.tirtaanugrah.com/liteprint/application/liteprint/tirtaanugrah/assets/product_image/159497267646-HVS-80-Gsm-A4-BW-Hitam-Putih-2.jpg",
+        "image3": "https://gunajayaprinting.com/wp-content/uploads/2021/04/isi-makalah-scaled.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Hitam Putih"],
+    "quantity": 200,
+    "satuan": "lembar",
+    "ukuran": "Letter",
+    "harga": 1000,
+    "harga_promo": 900,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "kertas": "HVS 80gsm",
+      "jenis": "Print Laser",
+      "warna": "Hitam Putih"
+    },
+    "deskripsi": "Print dokumen Letter hitam putih, cepat dan bersih."
+  },
+  {
+    "id": "CAP010",
+    "category": "Coppy-and-Print",
+    "nama": "Print Letter Full Color",
+    "rating": [
+      { "user": "Dewi", "bintang": 4, "komentar": "Warna cukup tajam." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://www.print100.com/hk/NewUI/Images/letterhead/Self-order%20Platform_%E6%96%87%E5%84%80%E9%A1%9E_ProductImages_800x800px_%E5%BD%A9%E8%89%B2%E4%BF%A1%E7%B4%99.jpg",
+        "image2": "https://static.vecteezy.com/system/resources/previews/008/951/905/non_2x/corporate-business-letterhead-design-template-deisgn-vector.jpg",
+        "image3": "https://static.vecteezy.com/system/resources/previews/036/089/841/non_2x/modern-letterhead-design-business-template-vector.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "1-2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 150,
+    "satuan": "lembar",
+    "ukuran": "Letter",
+    "harga": 3500,
+    "harga_promo": 3000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "kertas": "Art Paper 120gsm",
+      "jenis": "Print Inkjet",
+      "warna": "Full Color"
+    },
+    "deskripsi": "Print dokumen Letter full color untuk kebutuhan presentasi dan promosi."
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "logId": "LOG-20250822-9912AB",
+    "adminId": "ADM001",
+    "action": "UPDATE",
+    "target": "ORDER",
+    "targetId": "ORD-20250822-5F3A9C",
+    "description": "Ubah status order jadi shipped",
+    "createdAt": "2025-08-22T12:45:00Z"
+  }
+]

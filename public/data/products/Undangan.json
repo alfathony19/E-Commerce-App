@@ -1,0 +1,330 @@
+[
+  {
+    "id": "UND001",
+    "category": "Undangan",
+    "nama": "Undangan Pernikahan A5 Floral",
+    "rating": [
+      { "user": "Rina", "bintang": 5, "komentar": "Cantik dan elegan." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/purple-floral-wedding-invitation-design-template-51ef1c70bd2452331ab3a3ab61d60a39_screen.jpg",
+        "image2": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/template-wedding-invitation%2C-engagement-design-8002120da1d4853b3856d287e90734c6_screen.jpg",
+        "image3": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/wedding-invitation-flower-full-color-template-design-0f508f0907aa4b6ccab61487eae1089c_screen.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Pastel"],
+    "quantity": 100,
+    "satuan": "pcs",
+    "ukuran": "A5",
+    "harga": 5000,
+    "harga_promo": 4500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Undangan Pernikahan",
+      "kertas": "Art Paper 150gsm",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Undangan pernikahan A5 motif floral, desain elegan dan modern."
+  },
+  {
+    "id": "UND002",
+    "category": "Undangan",
+    "nama": "Undangan Ulang Tahun Anak 10x15 cm",
+    "rating": [
+      { "user": "Agus", "bintang": 4, "komentar": "Lucu tapi agak tipis." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://marketplace.canva.com/EAFXPOiWgOk/2/0/1600w/canva-merah-muda-pastel-cantik-lucu-undangan-ulang-tahun-anak-imut--s86WvJ4EVo.jpg",
+        "image2": "https://marketplace.canva.com/EAGcNfrOxVI/1/0/1143w/canva-merah-muda-minimalis-undangan-acara-ulang-tahun-L8WKy5ymuy4.jpg",
+        "image3": "https://marketplace.canva.com/EAFk2dqVhsA/1/0/1143w/canva-biru-muda-undangan-ulang-tahun-dunia-laut-YM5vo4wtKps.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 50,
+    "satuan": "pcs",
+    "ukuran": "10x15 cm",
+    "harga": 4000,
+    "harga_promo": 3500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Undangan Ulang Tahun",
+      "kertas": "Art Paper 120gsm",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Undangan ulang tahun anak dengan desain ceria, ukuran 10x15 cm."
+  },
+  {
+    "id": "UND003",
+    "category": "Undangan",
+    "nama": "Undangan Wisuda 15x15 cm",
+    "rating": [
+      {
+        "user": "Lina",
+        "bintang": 5,
+        "komentar": "Desain rapi dan profesional."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://i.pinimg.com/736x/28/51/54/2851546d3e3bdc6702e38280a71c0aa2.jpg",
+        "image2": "https://marketplace.canva.com/EAGQOpo3nc4/1/0/1135w/canva-undangan-wisuda-elegan-minimalis-biru-tua-emas-xQIkZhqSPuw.jpg",
+        "image3": "https://marketplace.canva.com/EAGQOacbztk/1/0/1135w/canva-undangan-wisuda-ilustratif-organik-krem-merah-KAVYcz1Rq_E.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Gold"],
+    "quantity": 70,
+    "satuan": "pcs",
+    "ukuran": "15x15 cm",
+    "harga": 6000,
+    "harga_promo": 5500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Undangan Wisuda",
+      "kertas": "Matt Paper 150gsm",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Undangan wisuda eksklusif dengan sentuhan warna gold, cocok untuk momen spesial."
+  },
+  {
+    "id": "UND004",
+    "category": "Undangan",
+    "nama": "Undangan Akad Nikah 14x21 cm",
+    "rating": [
+      { "user": "Tono", "bintang": 4, "komentar": "Elegan, finishing rapi." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://marketplace.canva.com/EAGL6Q__ROc/2/0/286w/canva-biru-emas-estetik-modern-undangan-pernikahan-g7xnIFJzi7A.jpg",
+        "image2": "https://marketplace.canva.com/EAGQxhIIzl8/1/0/900w/canva-putih-oranye-bunga-estetik-undangan-pernikahan-video-seluler-AraU-Zkf32o.jpg",
+        "image3": "https://i.pinimg.com/736x/23/e3/ae/23e3aeff179fabfbe5e653399b8d694a.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Putih & Emas"],
+    "quantity": 80,
+    "satuan": "pcs",
+    "ukuran": "14x21 cm",
+    "harga": 8000,
+    "harga_promo": 7500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Undangan Pernikahan",
+      "kertas": "Art Paper 180gsm",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Undangan akad nikah ukuran A5 dengan finishing premium dan desain elegan."
+  },
+  {
+    "id": "UND005",
+    "category": "Undangan",
+    "nama": "Undangan Baby Shower 10x20 cm",
+    "rating": [
+      {
+        "user": "Sari",
+        "bintang": 5,
+        "komentar": "Imut dan lucu, warna cerah."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://img.lovepik.com/free-template/20210624/bg/f01a7590a549483e3bde71fc719b6479_41332.png_detail.jpg",
+        "image2": "https://png.pngtree.com/template/20210924/ourlarge/pngtree-boy-baby-shower-blue-cute-invitation-image_701220.png",
+        "image3": "https://img.freepik.com/vector-gratis/etiqueta-peluche-decoracion-globos_24640-46094.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Pink & Blue"],
+    "quantity": 60,
+    "satuan": "pcs",
+    "ukuran": "10x20 cm",
+    "harga": 4500,
+    "harga_promo": 4000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Undangan Baby Shower",
+      "kertas": "Art Paper 150gsm",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Undangan baby shower lucu untuk momen spesial calon orang tua."
+  },
+  {
+    "id": "UND006",
+    "category": "Undangan",
+    "nama": "Undangan Khitanan 12x18 cm",
+    "rating": [
+      { "user": "Dian", "bintang": 4, "komentar": "Cukup tebal, desain bagus." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://marketplace.canva.com/EAFwkMsUoOc/2/0/1600w/canva-biru-lucu-imut-syukuran-anak-kartu-fyeIFYQm-S0.jpg",
+        "image2": "https://i.pinimg.com/564x/2d/a9/3f/2da93f158cfe4227814c663b55547a14.jpg",
+        "image3": "https://i.pinimg.com/736x/b0/d1/87/b0d18775022e1f2bebd448b427ac56f3.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Biru"],
+    "quantity": 70,
+    "satuan": "pcs",
+    "ukuran": "12x18 cm",
+    "harga": 5500,
+    "harga_promo": 5000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Undangan Khitanan",
+      "kertas": "Art Paper 150gsm",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Undangan khitanan ukuran 12x18 cm dengan desain menarik."
+  },
+  {
+    "id": "UND007",
+    "category": "Undangan",
+    "nama": "Undangan Pertunangan 14x14 cm",
+    "rating": [
+      { "user": "Fajar", "bintang": 5, "komentar": "Cantik dan elegan." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://webicdn.com/sdirmember/20/19403/produk/19403_product_1707299653.jpg",
+        "image2": "https://webicdn.com/sdirmember/20/19403/produk/19403_product_1689588066m.jpg",
+        "image3": "https://webicdn.com/sdirmember/20/19403/produk/19403_product_1689588128m.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Putih & Silver"],
+    "quantity": 50,
+    "satuan": "pcs",
+    "ukuran": "14x14 cm",
+    "harga": 7000,
+    "harga_promo": 6500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Undangan Pertunangan",
+      "kertas": "Art Paper 180gsm",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Undangan pertunangan elegan, cocok untuk momen spesial pasangan."
+  },
+  {
+    "id": "UND008",
+    "category": "Undangan",
+    "nama": "Undangan Syukuran 10x15 cm",
+    "rating": [
+      { "user": "Lia", "bintang": 4, "komentar": "Simple tapi bagus." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://i.pinimg.com/736x/4e/13/e0/4e13e02dd88e996b98b59d2dcb1dddc5.jpg",
+        "image2": "https://marketplace.canva.com/EAGlDYj6dD4/1/0/1135w/canva-putih-dan-hijau-modern-undangan-tasyakuran-khitan-tHS0m2VhOkA.jpg",
+        "image3": "https://undadown.wordpress.com/wp-content/uploads/2017/08/6a391-judul2brumah2bsyaefullah.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Putih"],
+    "quantity": 120,
+    "satuan": "pcs",
+    "ukuran": "10x15 cm",
+    "harga": 3500,
+    "harga_promo": 3000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Undangan Syukuran",
+      "kertas": "Art Paper 120gsm",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Undangan syukuran sederhana, desain rapi dan mudah dicetak."
+  },
+  {
+    "id": "UND009",
+    "category": "Undangan",
+    "nama": "Undangan Perpisahan Sekolah A5",
+    "rating": [
+      { "user": "Wawan", "bintang": 5, "komentar": "Bagus, warna cerah." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://marketplace.canva.com/EAGQOk9z7AE/1/0/1135w/canva-undangan-wisuda-ilustratif-organik-kuning-gading-oranye-4v2BkEsOTbY.jpg",
+        "image2": "https://online.fliphtml5.com/uhgcq/ghhv/files/shot.jpg",
+        "image3": "https://www.smkmuhammadiyah6jakarta.sch.id/upload/imagecache/94750786png_20230606_100325_0000-800x566.png"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 80,
+    "satuan": "pcs",
+    "ukuran": "A5",
+    "harga": 4000,
+    "harga_promo": 3500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Undangan Perpisahan",
+      "kertas": "Art Paper 150gsm",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Undangan perpisahan sekolah A5, desain menarik dan warna cerah."
+  },
+  {
+    "id": "UND010",
+    "category": "Undangan",
+    "nama": "Undangan Workshop 15x10 cm",
+    "rating": [
+      { "user": "Dewi", "bintang": 4, "komentar": "Cukup rapi, warna akurat." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://marketplace.canva.com/EAGED4sf4o0/1/0/1143w/canva-biru-emas-elegan-kalsik-kolase-wisuda-universitas-kartu-undangan-PCK6rOnSdPM.jpg",
+        "image2": "https://marketplace.canva.com/EAF_NQKytPo/2/0/450w/canva-biru-putih-malam-sederhana-undangan-buka-puasa-video-seluler-frPDZL54uSA.jpg",
+        "image3": "https://cdn.kibrispdr.org/data/859/undangan-seminar-nasional-1.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 60,
+    "satuan": "pcs",
+    "ukuran": "15x10 cm",
+    "harga": 5000,
+    "harga_promo": 4500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Undangan Workshop",
+      "kertas": "Art Paper 150gsm",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Undangan workshop ukuran 15x10 cm, cocok untuk event atau seminar."
+  }
+]

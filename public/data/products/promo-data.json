@@ -1,0 +1,132 @@
+[
+  {
+    "promoId": "PROMO001",
+    "title": "Promo Tahun Baru (Diskon hingga 25%)",
+    "type": "voucher",
+    "voucherCode": "TAHUNBARU25",
+    "discountPercent": 25,
+    "startDate": "2025-09-10T00:00:00Z",
+    "endDate": "2025-09-17T23:59:59Z",
+    "status": "active"
+  },
+  {
+    "promoId": "PROMO002",
+    "title": "Promo Imlek (Diskon 20%)",
+    "type": "voucher",
+    "voucherCode": "IMLEK20",
+    "discountPercent": 20,
+    "startDate": "2025-09-10T00:00:00Z",
+    "endDate": "2025-09-17T23:59:59Z",
+    "status": "active"
+  },
+  {
+    "promoId": "PROMO003",
+    "title": "Promo Valentine (Diskon 15%)",
+    "type": "voucher",
+    "voucherCode": "VALENTINE15",
+    "discountPercent": 15,
+    "startDate": "2025-09-10T00:00:00Z",
+    "endDate": "2025-09-17T23:59:59Z",
+    "status": "active"
+  },
+  {
+    "promoId": "PROMO004",
+    "title": "Promo Ramadhan (Diskon 30%)",
+    "type": "voucher",
+    "voucherCode": "RAMADHAN30",
+    "discountPercent": 30,
+    "startDate": "2025-09-10T00:00:00Z",
+    "endDate": "2025-09-17T23:59:59Z",
+    "status": "active"
+  },
+  {
+    "promoId": "PROMO005",
+    "title": "Promo Idul Fitri (Diskon 25%)",
+    "type": "voucher",
+    "voucherCode": "LEBARAN25",
+    "discountPercent": 25,
+    "startDate": "2025-09-10T00:00:00Z",
+    "endDate": "2025-09-17T23:59:59Z",
+    "status": "active"
+  },
+  {
+    "promoId": "PROMO006",
+    "title": "Promo Idul Adha (Diskon 20%)",
+    "type": "voucher",
+    "voucherCode": "LEBARANHAJI20",
+    "discountPercent": 20,
+    "startDate": "2025-09-10T00:00:00Z",
+    "endDate": "2025-09-17T23:59:59Z",
+    "status": "active"
+  },
+  {
+    "promoId": "PROMO007",
+    "title": "Promo Hari Kartini (Diskon 17%)",
+    "type": "voucher",
+    "voucherCode": "KARTINI17",
+    "discountPercent": 17,
+    "startDate": "2025-09-10T00:00:00Z",
+    "endDate": "2025-09-17T23:59:59Z",
+    "status": "active"
+  },
+  {
+    "promoId": "PROMO008",
+    "title": "Promo Hari Pendidikan Nasional (Diskon 20%)",
+    "type": "voucher",
+    "voucherCode": "HARDIKNAS20",
+    "discountPercent": 20,
+    "startDate": "2025-09-10T00:00:00Z",
+    "endDate": "2025-09-17T23:59:59Z",
+    "status": "active"
+  },
+  {
+    "promoId": "PROMO009",
+    "title": "Promo Hari Kemerdekaan (Diskon 45%)",
+    "type": "voucher",
+    "voucherCode": "17AN45",
+    "discountPercent": 45,
+    "startDate": "2025-09-10T00:00:00Z",
+    "endDate": "2025-09-17T23:59:59Z",
+    "status": "active"
+  },
+  {
+    "promoId": "PROMO010",
+    "title": "Promo Hari Sumpah Pemuda (Diskon 30%)",
+    "type": "voucher",
+    "voucherCode": "SUMPAH30",
+    "discountPercent": 30,
+    "startDate": "2025-09-10T00:00:00Z",
+    "endDate": "2025-09-17T23:59:59Z",
+    "status": "active"
+  },
+  {
+    "promoId": "PROMO011",
+    "title": "Promo Hari Guru Nasional (Diskon 20%)",
+    "type": "voucher",
+    "voucherCode": "HARIGURU20",
+    "discountPercent": 20,
+    "startDate": "2025-09-10T00:00:00Z",
+    "endDate": "2025-09-17T23:59:59Z",
+    "status": "active"
+  },
+  {
+    "promoId": "PROMO012",
+    "title": "Promo Hari Pahlawan (Diskon 25%)",
+    "type": "voucher",
+    "voucherCode": "PAHLAWAN25",
+    "discountPercent": 25,
+    "startDate": "2025-09-10T00:00:00Z",
+    "endDate": "2025-09-17T23:59:59Z",
+    "status": "active"
+  },
+  {
+    "promoId": "PROMO013",
+    "title": "Promo Natal (Diskon 30%)",
+    "type": "voucher",
+    "voucherCode": "NATAL30",
+    "discountPercent": 30,
+    "startDate": "2025-09-10T00:00:00Z",
+    "endDate": "2025-09-17T23:59:59Z",
+    "status": "active"
+  }
+]

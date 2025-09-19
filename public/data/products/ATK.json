@@ -1,0 +1,357 @@
+[
+  {
+    "id": "ATK001",
+    "category": "ATK",
+    "nama": "Pulpen Standard Biru",
+    "rating": [
+      {
+        "user": "Rina",
+        "bintang": 5,
+        "komentar": "Enak dipakai, tintanya lancar."
+      },
+      { "user": "Agus", "bintang": 4, "komentar": "Kadang tintanya putus." }
+    ],
+    "penilaian": 4.5,
+    "imageUrl": [
+      {
+        "image1": "https://siplah-oss.tokoladang.co.id/merchant/16782/product/lwB2qKGXhInFO9mo7X74SBSUqUyrblEJvbSpNMJT.jpg",
+        "image2": "https://siplah-oss.tokoladang.co.id/merchant/3602/product/fHKAIAuJc6o93YuTbb9rP9IrmSePXp8lm8zJMhHE.jpg",
+        "image3": "https://id-test-11.slatic.net/p/47f51252b92e9172784d083b187a9b4b.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "Ready Stock",
+    "warna": ["Blue","Red","Black"],
+    "quantity": 100000,
+    "satuan": "pcs",
+    "unitOptions": [
+      { "label": "1 pcs", "multiplier": 1 },
+      { "label": "1 pack (12 pcs)", "multiplier": 12 },
+      { "label": "10 pack (120 pcs)", "multiplier": 120 }
+    ],
+    "harga": 2500,
+    "harga_promo": 2000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Pulpen Ballpoint",
+      "ukuran": "0.5 mm",
+      "bahan": "Plastik"
+    },
+    "deskripsi": "Pulpen ballpoint standar warna biru, nyaman digunakan untuk menulis sehari-hari."
+  },
+  {
+    "id": "ATK002",
+    "category": "ATK",
+    "nama": "Pensil 2B Faber-Castell",
+    "rating": [
+      {
+        "user": "Budi",
+        "bintang": 5,
+        "komentar": "Cocok buat ujian, hitam pekat."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://siplah-oss.tokoladang.co.id/merchant/14035/product/Jm0Ph7WGY8cJVC2bHdVVJs21sb3RDlhTj41q9shC.jpg",
+        "image2": "https://siplah-oss.tokoladang.co.id/merchant/42643/product/RTQshJKkQzg1ebk18F20CXxS0l6AsrwM1IvdQWI5.jpg",
+        "image3": "https://parto.id/asset/foto_produk/Faber_Castel_2B.jpg"
+      }
+    ],
+    "label": "Rekomendasi",
+    "pengerjaan": "Ready Stock",
+    "warna": ["black"],
+    "quantity": 500,
+    "satuan": "pcs",
+    "unitOptions": [
+      { "label": "1 pcs", "multiplier": 1 },
+      { "label": "1 pack (12 pcs)", "multiplier": 12 },
+      { "label": "10 pack (120 pcs)", "multiplier": 120 }
+    ],
+    "harga": 18000,
+    "harga_promo": 15000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Pensil 2B",
+      "isi": "12 pcs per pack",
+      "bahan": "Kayu berkualitas"
+    },
+    "deskripsi": "Pensil 2B berkualitas tinggi, cocok digunakan untuk ujian maupun menggambar."
+  },
+  {
+    "id": "ATK003",
+    "category": "ATK",
+    "nama": "Buku Tulis 40 Lembar",
+    "rating": [],
+    "penilaian": 4.7,
+    "imageUrl": [
+      {
+        "image1": "https://filebroker-cdn.lazada.co.id/kf/S58df9397cbbf48d6ba212b75d94eaa154.jpg",
+        "image2": "https://filebroker-cdn.lazada.co.id/kf/Sc4c34ae67bc548dd86448f24865be847R.jpg",
+        "image3": "https://siplah-oss.tokoladang.co.id/merchant/17793/product/WHW09jLKO6CBbJfAAydUZIOgUQz1Emp1li2wNYd3.jpg"
+      }
+    ],
+    "label": "Harian",
+    "pengerjaan": "Ready Stock",
+    "warna": ["White"],
+    "quantity": 20000,
+    "satuan": "pcs",
+    "unitOptions": [
+      { "label": "1 pcs", "multiplier": 1 },
+      { "label": "1 pack (10 pcs)", "multiplier": 10 },
+      { "label": "10 pack (100 pcs)", "multiplier": 100 }
+    ],
+    "harga": 3000,
+    "harga_promo": 2500,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "jenis": "Buku Tulis",
+      "lembar": 40,
+      "ukuran": "A5"
+    },
+    "deskripsi": "Buku tulis isi 40 lembar, kertas berkualitas untuk keperluan sekolah maupun kantor."
+  },
+  {
+    "id": "ATK004",
+    "category": "ATK",
+    "nama": "Stabilo Boss Original",
+    "rating": [
+      {
+        "user": "Lina",
+        "bintang": 5,
+        "komentar": "Warna cerah dan tahan lama."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://id-test-11.slatic.net/p/5ca848bf551c4ce33f9462ce7dba3520.jpg",
+        "image2": "https://image1ws.indotrading.com/s3/productimages/webp/co78307/p550906/w600-h600/b47316b2-f2eb-4f08-bec0-b12906fa7a56w.jpg",
+        "image3": "https://img.mbizmarket.co.id/products/thumbs/800x800/2022/03/28/4693ba152895c6d904d653135d08bd84.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "Ready Stock",
+    "warna": ["Yellow", "Green", "Pink"],
+    "quantity": 8000,
+    "satuan": "pcs",
+    "unitOptions": [
+      { "label": "1 pcs", "multiplier": 1 },
+      { "label": "1 pack (10 pcs)", "multiplier": 10 },
+      { "label": "10 pack (100 pcs)", "multiplier": 100 }
+    ],
+    "harga": 12000,
+    "harga_promo": 10000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Highlighter",
+      "bahan": "Plastik"
+    },
+    "deskripsi": "Stabilo original dengan warna cerah, cocok untuk menandai teks penting."
+  },
+  {
+    "id": "ATK005",
+    "category": "ATK",
+    "nama": "Penghapus Kenko",
+    "rating": [],
+    "penilaian": 4.3,
+    "imageUrl": [
+      {
+        "image1": "https://siplah-oss.tokoladang.co.id/merchant/12436/product/gUAmcPiIC9oDOPHvFgJftqZywjtIGq4Lq1CuphxF.jpg",
+        "image2": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/8/8/e9d842d2-eb65-40b1-af67-2530df728d8a.jpg",
+        "image3": "https://shop.kenko.co.id/image/cache/catalog/product/Eraser/Eraser-ERC-20PQ-700x700.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "Ready Stock",
+    "warna": ["White"],
+    "quantity": 15000,
+    "satuan": "pcs",
+    "unitOptions": [
+      { "label": "1 pcs", "multiplier": 1 },
+      { "label": "1 pack (40 pcs)", "multiplier": 40 },
+      { "label": "10 pack (400 pcs)", "multiplier": 400 }
+    ],
+    "harga": 2000,
+    "harga_promo": 1500,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "jenis": "Penghapus Karet",
+      "ukuran": "Small"
+    },
+    "deskripsi": "Penghapus lembut dan tidak merusak kertas."
+  },
+  {
+    "id": "ATK006",
+    "category": "ATK",
+    "nama": "Spidol Snowman Marker",
+    "rating": [
+      { "user": "Yudi", "bintang": 4, "komentar": "Tinta pekat, cepat habis." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://bela-rajastore.oss-ap-southeast-5.aliyuncs.com/prod/product/vTcF1jDPOBB53CnQuNu87Uhnufdryr9MN7pEllv2.jpg",
+        "image2": "https://siplah.blibli.com/data/images/SCBS-0017-00127/4cdcf9c5-4a0c-4d07-bcc2-33bf3f25f399.jpg",
+        "image3": "https://siplah-oss.tokoladang.co.id/merchant/12840/product/4JXhAdklhvf5tXpdvzTrf6AR2bH4bnbkeLIsfiy7.jpg"
+      }
+    ],
+    "label": "Rekomendasi",
+    "pengerjaan": "Ready Stock",
+    "warna": ["Black", "Red", "Blue"],
+    "quantity": 9000,
+    "satuan": "pcs",
+    "unitOptions": [
+      { "label": "1 pcs", "multiplier": 1 },
+      { "label": "1 pack (12 pcs)", "multiplier": 12 },
+      { "label": "10 pack (120 pcs)", "multiplier": 120 }
+    ],
+    "harga": 10000,
+    "harga_promo": 8500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Permanent Marker",
+      "ukuran": "Medium"
+    },
+    "deskripsi": "Spidol permanen Snowman dengan tinta berkualitas tinggi."
+  },
+  {
+    "id": "ATK007",
+    "category": "ATK",
+    "nama": "Lakban Bening 2 inch",
+    "rating": [],
+    "penilaian": 4.1,
+    "imageUrl": [
+      {
+        "image1": "https://siplah-oss.tokoladang.co.id/merchant/53451/product/NoQnawxoP3WUs2dCqWC6z4pB9ONwcQzL1ewlqgYX.jpg",
+        "image2": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/5/19/75464be5-918c-40ec-8f51-e5333832b94a.jpg",
+        "image3": "https://cdn.linkumkm.id/uploads/library/3/7/1/4/6/37146_840x576.jpg"
+      }
+    ],
+    "label": "Harian",
+    "pengerjaan": "Ready Stock",
+    "warna": ["Gray-200"],
+    "quantity": 12000,
+    "satuan": "pcs",
+    "unitOptions": [
+      { "label": "1 roll", "multiplier": 1 },
+      { "label": "1 pack (6 roll)", "multiplier": 6 },
+      { "label": "10 pack (60 roll)", "multiplier": 60 },
+      { "label": "1 dus (72 roll)", "multiplier": 72 }
+    ],
+    "harga": 8000,
+    "harga_promo": 7000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "jenis": "Lakban",
+      "ukuran": "2 inch x 50 m"
+    },
+    "deskripsi": "Lakban bening kuat untuk berbagai kebutuhan pengepakan."
+  },
+  {
+    "id": "ATK008",
+    "category": "ATK",
+    "nama": "Map Plastik Folio",
+    "rating": [],
+    "penilaian": 4.0,
+    "imageUrl": [
+      {
+        "image1": "https://img.lazcdn.com/g/p/27ecacf72531938faffd4d35b9add6dd.jpg",
+        "image2": "https://siopen.hulusungaiselatankab.go.id/storage/merchant/products/2024/01/22/cfb56350b670c7c8c3835d22ac6eae61.jpg",
+        "image3": "https://gratisongkir-storage.com/products/900x900/OSNGxKybKdjA.jpg"
+      }
+    ],
+    "label": "Rekomendasi",
+    "pengerjaan": "Ready Stock",
+    "warna": ["Red", "Blue", "Green"],
+    "quantity": 2000,
+    "satuan": "pcs",
+    "unitOptions": [
+      { "label": "1 pcs", "multiplier": 1 },
+      { "label": "1 pack (12 pcs)", "multiplier": 12 },
+      { "label": "10 pack (120 pcs)", "multiplier": 120 }
+    ],
+    "harga": 2500,
+    "harga_promo": 2000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Map Plastik",
+      "ukuran": "Folio"
+    },
+    "deskripsi": "Map plastik folio untuk menyimpan dokumen penting."
+  },
+  {
+    "id": "ATK009",
+    "category": "ATK",
+    "nama": "Tip-Ex Cair Kenko",
+    "rating": [],
+    "penilaian": 4.6,
+    "imageUrl": [
+      {
+        "image1": "https://laz-img-sg.alicdn.com/p/c6cf036da5e59fbfb3c82208588cb208.jpg",
+        "image2": "https://img.lazcdn.com/g/p/5193ef7de7689b311ce4a6963f199fc5.jpg_720x720q80.jpg",
+        "image3": "https://parto.id/asset/foto_produk/TIP-X_Cair_Kenko.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "Ready Stock",
+    "warna": ["White"],
+    "quantity": 7000,
+    "satuan": "pcs",
+    "unitOptions": [
+      { "label": "1 pcs", "multiplier": 1 },
+      { "label": "1 pack (12 pcs)", "multiplier": 12 },
+      { "label": "10 pack (120 pcs)", "multiplier": 120 }
+    ],
+    "harga": 6000,
+    "harga_promo": 5000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "jenis": "Cair",
+      "isi": "20 ml"
+    },
+    "deskripsi": "Cairan penghapus tulisan tinta yang cepat kering."
+  },
+  {
+    "id": "ATK010",
+    "category": "ATK",
+    "nama": "Stapler Kangaro HD-10",
+    "rating": [{ "user": "Dian", "bintang": 5, "komentar": "Kuat dan awet." }],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.kangaro.com/media/catalog/product/cache/1/image/487x289/9df78eab33525d08d6e5fb8d27136e95/h/d/hd10-a-new.jpg",
+        "image2": "https://img.lazcdn.com/g/ff/kf/S15afddd70b804e8ca4fa4bb981d698c76.jpg_720x720q80.jpg",
+        "image3": "https://filebroker-cdn.lazada.co.id/kf/S1c147ce1e0f740169eeb97def0d0bf450.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "Ready Stock",
+    "warna": ["Black", "Gray"],
+    "quantity": 6000,
+    "satuan": "pcs",
+    "unitOptions": [
+      { "label": "1 unit", "multiplier": 1 },
+      { "label": "1 pack (20 unit)", "multiplier": 12 },
+      { "label": "10 pack (200 unit)", "multiplier": 200}
+    ],
+    "harga": 25000,
+    "harga_promo": 22000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "jenis": "Stapler Mini",
+      "kapasitas": "20 lembar"
+    },
+    "deskripsi": "Stapler mini berkualitas tinggi dengan desain ergonomis."
+  }
+]

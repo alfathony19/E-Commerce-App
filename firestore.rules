@@ -1,0 +1,75 @@
+rules_version = '2';
+service cloud.firestore {
+  function isSignedIn() {
+    return request.auth != null;
+  }
+
+  function isAdmin() {
+    return isSignedIn() &&
+      (request.auth.token.admin == true || request.auth.token.role == 'admin');
+  }
+
+  match /databases/{database}/documents {
+
+    // users
+    match /users/{userId} {
+      allow create: if isSignedIn();
+      allow read, update, delete: if isAdmin() || request.auth.uid == userId;
+    }
+
+    // orders
+    match /orders/{orderId} {
+      allow create: if isSignedIn();
+
+      // user boleh baca/update/delete order miliknya
+      allow read, update, delete: if isAdmin()
+        || (isSignedIn() && (
+            resource.data.owner == request.auth.uid ||
+            resource.data.userId == request.auth.uid
+        ));
+    }
+
+    // carts
+    match /carts/{cartId} {
+      allow create: if isSignedIn();
+      allow read, update, delete: if isAdmin()
+        || request.auth.uid == resource.data.owner
+        || request.auth.uid == resource.data.userId;
+    }
+
+    // promos
+    match /Promos/{promoId} {
+      allow read: if true;       // publik bisa baca
+      allow write: if isAdmin(); // cuma admin bisa nulis
+    }
+
+    // reviews
+    match /reviews/{reviewId} {
+      allow read: if true;
+      allow create: if isSignedIn();
+      allow update, delete: if isAdmin() || request.auth.uid == resource.data.userId;
+    }
+
+    // admin-only
+    match /admins/{docId} {
+      allow read, write: if isAdmin();
+    }
+    match /adminLogs/{docId} {
+      allow read, write: if isAdmin();
+    }
+    match /reports/{docId} {
+      allow read, write: if isAdmin();
+    }
+    match /settings/{docId} {
+      allow read, write: if isAdmin();
+    }
+    match /orderHistory/{docId} {
+      allow read, write: if isAdmin();
+    }
+
+    // fallback
+    match /{document=**} {
+      allow read, write: if isSignedIn();
+    }
+  }
+}

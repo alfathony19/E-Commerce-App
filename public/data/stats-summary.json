@@ -1,0 +1,12 @@
+[
+  {
+    "totalUsers": 1250,
+    "totalOrders": 5890,
+    "completedOrders": 5020,
+    "pendingOrders": 870,
+    "totalRevenue": 750000000,
+    "activeProducts": 320,
+    "inactiveProducts": 50,
+    "lastUpdated": "2025-08-22T12:30:00Z"
+  }
+]

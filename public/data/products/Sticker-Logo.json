@@ -1,0 +1,346 @@
+[
+  {
+    "id": "STK001",
+    "category": "Sticker-Logo",
+    "nama": "Sticker Logo Bulat 3 cm",
+    "rating": [
+      { "user": "Rina", "bintang": 5, "komentar": "Cetak rapi, warna tajam." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://okheelo.com/okheelo/fotoproduk/label44.jpg",
+        "image2": "https://snapy.co.id/gambar/artikel/article05_04_stiker_label.jpg",
+        "image3": "https://id-test-11.slatic.net/p/fefce093ccadb51f9953f648c9aefafb.png"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 100,
+    "satuan": "pcs",
+    "ukuran": "3 cm",
+    "harga": 1500,
+    "harga_promo": 1200,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "Sticker Logo",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Sticker logo bulat 3 cm, cocok untuk promosi produk atau branding."
+  },
+  {
+    "id": "STK002",
+    "category": "Sticker-Logo",
+    "nama": "Sticker Logo Persegi 5x5 cm",
+    "rating": [
+      {
+        "user": "Agus",
+        "bintang": 4,
+        "komentar": "Cukup bagus, tapi agak tipis."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://www.lionprint.id/lionprint/fotoproduk/STICKER-LABEL-5X5.jpg",
+        "image2": "https://laz-img-sg.alicdn.com/p/24bd3f2e10e88c7f7464d46d04f53b45.jpg",
+        "image3": "https://id-live-01.slatic.net/p/dfcb3ab3d7f8a678770f13bf23f54135.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 80,
+    "satuan": "pcs",
+    "ukuran": "5x5 cm",
+    "harga": 2500,
+    "harga_promo": 2000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "Sticker Logo",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Sticker logo persegi 5x5 cm, cocok untuk branding dan promosi."
+  },
+  {
+    "id": "STK003",
+    "category": "Sticker-Logo",
+    "nama": "Sticker Logo Oval 4x6 cm",
+    "rating": [
+      { "user": "Lina", "bintang": 5, "komentar": "Cetak detail bagus." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.customizedstickers.com/media/catalog/product/cache/46b45551a27f9a33a91fcf9c57b8f9de/5/0/50r-ovl-4x6.jpg",
+        "image2": "https://scene7.zumiez.com/is/image/zumiez/product_main_medium_2x/Some-Kids-Logo-Sticker-_390286-front-US.jpg",
+        "image3": "https://img.freepik.com/premium-psd/top-view-oval-sticker-mockup_47987-18211.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 60,
+    "satuan": "pcs",
+    "ukuran": "4x6 cm",
+    "harga": 3000,
+    "harga_promo": 2500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "Sticker Logo",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Sticker logo oval ukuran 4x6 cm, warna cerah dan tajam."
+  },
+  {
+    "id": "STK004",
+    "category": "Sticker-Logo",
+    "nama": "Sticker Logo Mini 2x2 cm",
+    "rating": [
+      { "user": "Tono", "bintang": 4, "komentar": "Kecil tapi detail bagus." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://id-live-01.slatic.net/p/22f726a322f2a654f9d31f29905b3f61.jpg",
+        "image2": "https://id-live-01.slatic.net/p/c8e31ac7a3aceb82b09c1a20b68f23d7.jpg",
+        "image3": "https://img.lazcdn.com/g/p/c8d83170e1147c72ef5cb54c8310b11c.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 150,
+    "satuan": "pcs",
+    "ukuran": "2x2 cm",
+    "harga": 1000,
+    "harga_promo": 900,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "Sticker Logo",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Sticker logo mini 2x2 cm, cocok untuk stiker packaging atau label kecil."
+  },
+  {
+    "id": "STK005",
+    "category": "Sticker-Logo",
+    "nama": "Sticker Logo Besar 10x10 cm",
+    "rating": [
+      {
+        "user": "Dian",
+        "bintang": 5,
+        "komentar": "Sangat jelas, kualitas premium."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://img.lazcdn.com/g/ff/kf/S635b5b4ed1a2484bbd6c002a1ad45641O.jpg_720x720q80.jpg",
+        "image2": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/7/27/ebc46724-e8eb-4a91-93d3-699b263b8621.jpg",
+        "image3": "https://img.mbizmarket.co.id/products/thumbs/800x800/2022/11/21/8d34bcb84ec8b25d7ce84a1e6dfbfb3d.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 40,
+    "satuan": "pcs",
+    "ukuran": "10x10 cm",
+    "harga": 10000,
+    "harga_promo": 9000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "Sticker Logo",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Sticker logo besar 10x10 cm, ideal untuk branding dan display."
+  },
+  {
+    "id": "STK006",
+    "category": "Sticker-Logo",
+    "nama": "Sticker Logo Transparan 5x5 cm",
+    "rating": [
+      {
+        "user": "Sari",
+        "bintang": 4,
+        "komentar": "Transparan bagus tapi agak tipis."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://id-test-11.slatic.net/p/6c1cbff85775f314d4fca8725286ed6d.jpg",
+        "image2": "https://id-live-01.slatic.net/p/a8363ec72eb7a76a2d785f27d3cb3099.jpg",
+        "image3": "https://ae01.alicdn.com/kf/Ha4d55dc5f9864a719292aa6fcc2330b8k.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Transparan"],
+    "quantity": 100,
+    "satuan": "pcs",
+    "ukuran": "5x5 cm",
+    "harga": 3000,
+    "harga_promo": 2800,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Vinyl Transparan",
+      "jenis": "Sticker Logo",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Sticker logo transparan, cocok untuk ditempel di botol atau kemasan."
+  },
+  {
+    "id": "STK007",
+    "category": "Sticker-Logo",
+    "nama": "Sticker Logo Custom 6x6 cm",
+    "rating": [
+      {
+        "user": "Fajar",
+        "bintang": 5,
+        "komentar": "Desain sesuai permintaan, bagus."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://images.tokopedia.net/img/cache/700/VqbcmM/2024/6/21/b239771f-f17a-4d2b-84b5-831e97956001.jpg",
+        "image2": "https://akucetak.id/wp-content/uploads/2022/04/stiker-kemasan-custom.jpg",
+        "image3": "https://images.tokopedia.net/img/cache/500-square/product-1/2019/4/2/616810/616810_edde0fb6-3c50-44a3-93c6-cf766c90cfae_1418_1418.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 30,
+    "satuan": "pcs",
+    "ukuran": "6x6 cm",
+    "harga": 7000,
+    "harga_promo": 6500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "Sticker Logo",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Sticker logo custom sesuai permintaan, kualitas cetak tajam."
+  },
+  {
+    "id": "STK008",
+    "category": "Sticker-Logo",
+    "nama": "Sticker Logo Kotak 4x4 cm",
+    "rating": [
+      {
+        "user": "Lia",
+        "bintang": 4,
+        "komentar": "Cukup bagus, warnanya akurat."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://www.primagraphia.co.id/images/product/sticker_label_kotak_2292x2715_1_20240522142352_309.jpg",
+        "image2": "https://www.primagraphia.co.id/images/product/sticker_label_kotak_2292x2715_20240522142352_766.jpg",
+        "image3": "https://www.primagraphia.co.id/images/product/sticker_label_kotak_2292x2715_1_20240522142352_309.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 120,
+    "satuan": "pcs",
+    "ukuran": "4x4 cm",
+    "harga": 2500,
+    "harga_promo": 2200,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "Sticker Logo",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Sticker logo kotak 4x4 cm, cocok untuk label produk atau branding."
+  },
+  {
+    "id": "STK009",
+    "category": "Sticker-Logo",
+    "nama": "Sticker Logo Oval 3x5 cm",
+    "rating": [
+      { "user": "Wawan", "bintang": 5, "komentar": "Cetak sangat rapi." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://cdn.justbuttons.org/wp-content/uploads/2019/12/05130121/5X3.png",
+        "image2": "https://bannersvillage.co.uk/cdn/shop/files/oval-stickers.png",
+        "image3": "https://img.freepik.com/premium-psd/sticker-mockup-psd-template_1249257-873.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 70,
+    "satuan": "pcs",
+    "ukuran": "3x5 cm",
+    "harga": 3500,
+    "harga_promo": 3000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "Sticker Logo",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Sticker logo oval 3x5 cm, cocok untuk label kemasan dan souvenir."
+  },
+  {
+    "id": "STK010",
+    "category": "Sticker-Logo",
+    "nama": "Sticker Logo Transparan Besar 10x10 cm",
+    "rating": [
+      {
+        "user": "Dewi",
+        "bintang": 5,
+        "komentar": "Transparan tajam, bagus banget."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://api.bintangsempurna.co.id/images/product/1731036928-upKeCwkNJd.jpg",
+        "image2": "https://www.cahyaprinting.com/liteprint/application/liteprint/cahya/assets/product_image/1596685241324-cetak-stiker-metalic-silver.jpg",
+        "image3": "https://maxipro.co.id/wp-content/uploads/2019/11/jenis-sticker-foil-300x300.png"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Transparan"],
+    "quantity": 20,
+    "satuan": "pcs",
+    "ukuran": "10x10 cm",
+    "harga": 12000,
+    "harga_promo": 11000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Vinyl Transparan",
+      "jenis": "Sticker Logo",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Sticker logo besar transparan, cocok untuk branding premium dan kemasan eksklusif."
+  }
+]

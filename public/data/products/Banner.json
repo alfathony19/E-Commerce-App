@@ -1,0 +1,346 @@
+[
+  {
+    "id": "BNR001",
+    "category": "Banner",
+    "nama": "Banner Outdoor PVC 2x1 m",
+    "rating": [
+      {
+        "user": "Rina",
+        "bintang": 5,
+        "komentar": "Kualitas bahan kuat, warna tajam."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.vkf-renzel.co.uk/out/pictures/generated/product/1/356_356_75/r15003678-02i/banner-frame-slot-system-steel-vacant-hot-dip-galvanised-13612-1.jpg",
+        "image2": "https://cdn11.bigcommerce.com/s-ixb20q/images/stencil/385x215/uploaded_images/fiber-frame-banner-stand-outdoor-4.png",
+        "image3": "https://vinylbannersprinting.co.uk/wp-content/uploads/2020/05/Outdoor-Barrier-Frame-2M-x-1M-With-Banner-vbp.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 100,
+    "satuan": "unit",
+    "ukuran": "2x1 m",
+    "harga": 150000,
+    "harga_promo": 120000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "PVC",
+      "jenis": "Outdoor",
+      "finishing": "UV Coating"
+    },
+    "deskripsi": "Banner PVC outdoor ukuran 2x1 m, tahan cuaca, cocok untuk promosi luar ruangan."
+  },
+  {
+    "id": "BNR002",
+    "category": "Banner",
+    "nama": "Banner Indoor Vinyl 1x0.5 m",
+    "rating": [
+      { "user": "Agus", "bintang": 4, "komentar": "Cukup bagus untuk indoor." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2020/8/6/38d395c8-9fd9-467d-855b-bdabbc1dc9e0.jpg",
+        "image2": "https://m.media-amazon.com/images/I/710NDaH8wcL._AC_SL1500_.jpg",
+        "image3": "https://m.media-amazon.com/images/I/71UeI7FfoiL._UF894,1000_QL80_.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 15,
+    "satuan": "unit",
+    "ukuran": "1x0.5 m",
+    "harga": 75000,
+    "harga_promo": 65000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "Indoor",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Banner vinyl untuk indoor, mudah dipasang, warna tajam."
+  },
+  {
+    "id": "BNR003",
+    "category": "Banner",
+    "nama": "Roll Up Banner 80x200 cm",
+    "rating": [
+      { "user": "Lina", "bintang": 5, "komentar": "Praktis dan portable." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.topsprint.co.id/liteprint/application/liteprint/topsprint/assets/product_image/1672884005251-Untitled-5.jpg",
+        "image2": "https://www.cetakkilat.com/image-product/img2798-1663060984.jpg",
+        "image3": "https://staging.shabatwarna.com/wp-content/uploads/2021/08/Roll-Up-Banner-60-x-160-cm.png"
+      }
+    ],
+    "label": "Rekomendasi",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 10,
+    "satuan": "unit",
+    "ukuran": "80x200 cm",
+    "harga": 200000,
+    "harga_promo": 180000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "Roll Up",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Roll up banner ukuran 80x200 cm, mudah dibawa dan dipasang."
+  },
+  {
+    "id": "BNR004",
+    "category": "Banner",
+    "nama": "X Banner 60x160 cm",
+    "rating": [
+      {
+        "user": "Tono",
+        "bintang": 4,
+        "komentar": "Cukup kuat, desain menarik."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://siplah-oss.tokoladang.co.id/merchant/58655/product/MBP7rhvSDXwS546192IdlVPjDGkjk8K2ceI7umr3.jpg",
+        "image2": "https://customindigitalprint.com/wp-content/uploads/2024/03/252859d03fdb6b7b8448c8d99ff736e1-e1711174933756.jpg",
+        "image3": "https://printonline.intirimbo.com/wp-content/uploads/2019/09/xbanner_thumb.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 12,
+    "satuan": "unit",
+    "ukuran": "60x160 cm",
+    "harga": 120000,
+    "harga_promo": 100000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "X Banner",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "X banner ukuran 60x160 cm, ideal untuk promosi indoor."
+  },
+  {
+    "id": "BNR005",
+    "category": "Banner",
+    "nama": "Banner PVC 3x1 m",
+    "rating": [
+      {
+        "user": "Dian",
+        "bintang": 5,
+        "komentar": "Bagus untuk luar ruangan, tahan air."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://print4london.com/sites/default/files/uploaded/PVC%20banner%201st.jpg",
+        "image2": "https://bigvaluebanners.co.uk/wp-content/uploads/2020/11/PVC-banner-mock-up-for-website-2.png",
+        "image3": "https://www.cathayprinting.com/liteprint/application/liteprint/cathay/assets/product_image/1742807772529-banner.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 8,
+    "satuan": "unit",
+    "ukuran": "3x1 m",
+    "harga": 220000,
+    "harga_promo": 200000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "PVC",
+      "jenis": "Outdoor",
+      "finishing": "UV Coating"
+    },
+    "deskripsi": "Banner PVC outdoor ukuran 3x1 m, kuat dan tahan lama."
+  },
+  {
+    "id": "BNR006",
+    "category": "Banner",
+    "nama": "Banner Vinyl 2x1 m",
+    "rating": [
+      {
+        "user": "Sari",
+        "bintang": 4,
+        "komentar": "Cukup jelas, warnanya bagus."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2023/8/21/e443829a-3d00-4fad-9b5d-d26485ee4b87.jpg",
+        "image2": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2023/3/14/9b97c0c8-2631-4897-af24-3f4072b2e025.jpg",
+        "image3": "https://img.lazcdn.com/g/p/b0d09d41aa6723fafc9edb24d7628c77.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 18,
+    "satuan": "unit",
+    "ukuran": "2x1 m",
+    "harga": 140000,
+    "harga_promo": 120000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "Indoor",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Banner vinyl ukuran 2x1 m, cocok untuk promosi indoor."
+  },
+  {
+    "id": "BNR007",
+    "category": "Banner",
+    "nama": "Roll Up Banner 100x200 cm",
+    "rating": [
+      {
+        "user": "Fajar",
+        "bintang": 5,
+        "komentar": "Praktis dan kualitas bagus."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.onlineprinters.ie/$WS/diedruckerei/shopdata/media/pim/images/1000x1000/jpg/2c9ceb817d511a95017d515c76ae2faa.jpg",
+        "image2": "https://antalya.ltd/wp-content/uploads/2019/04/hotel-roll-up-banner-.jpg",
+        "image3": "https://img.freepik.com/free-vector/business-roll-up-display-standee-presentation-purpose_1017-31432.jpg"
+      }
+    ],
+    "label": "Rekomendasi",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 10,
+    "satuan": "unit",
+    "ukuran": "100x200 cm",
+    "harga": 250000,
+    "harga_promo": 220000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "Roll Up",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Roll up banner ukuran 100x200 cm, mudah dibawa dan dipasang."
+  },
+  {
+    "id": "BNR008",
+    "category": "Banner",
+    "nama": "X Banner 70x180 cm",
+    "rating": [
+      { "user": "Lia", "bintang": 4, "komentar": "Kokoh tapi agak berat." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://printonline.intirimbo.com/wp-content/uploads/2019/09/xbanner_thumb.jpg",
+        "image2": "https://jagoanprinting.com/wp-content/uploads/2022/11/produk-mini-x-banner-jagoan-printing-bali-japri2.jpg",
+        "image3": "https://parto.id/asset/foto_produk/x_banner1.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 14,
+    "satuan": "unit",
+    "ukuran": "70x180 cm",
+    "harga": 140000,
+    "harga_promo": 120000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "X Banner",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "X banner ukuran 70x180 cm, cocok untuk promosi indoor."
+  },
+  {
+    "id": "BNR009",
+    "category": "Banner",
+    "nama": "Banner PVC 1.5x1 m",
+    "rating": [
+      { "user": "Andi", "bintang": 5, "komentar": "Bagus dan tahan lama." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://staindigital.com/wp-content/uploads/2022/05/gazebo-printing-johannesburg-6meters-scaled.jpg",
+        "image2": "https://www.print4display.co.uk/wp-content/uploads/gazebo-3-walls-1.jpg",
+        "image3": "https://cdn11.bigcommerce.com/s-u2mqq4sl7j/images/stencil/1280x1280/products/283/2032/Exhibition_Pack_3x3__01821.1669803086.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 12,
+    "satuan": "unit",
+    "ukuran": "1.5x1 m",
+    "harga": 120000,
+    "harga_promo": 100000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "PVC",
+      "jenis": "Outdoor",
+      "finishing": "UV Coating"
+    },
+    "deskripsi": "Banner PVC ukuran 1.5x1 m, tahan air dan cocok untuk promosi luar ruangan."
+  },
+  {
+    "id": "BNR010",
+    "category": "Banner",
+    "nama": "Banner Vinyl 3x1 m",
+    "rating": [
+      {
+        "user": "Dewi",
+        "bintang": 4,
+        "komentar": "Cukup besar, warnanya tajam."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://www.revoprintshop.com/image-product/img214-1666378995.png",
+        "image2": "https://mirroradvertising.id/wp-content/uploads/2016/02/DSC_0271.jpg",
+        "image3": "https://printingharvest.com/wp-content/uploads/2025/01/ukuran-spanduk.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Full Color"],
+    "quantity": 8,
+    "satuan": "unit",
+    "ukuran": "3x1 m",
+    "harga": 180000,
+    "harga_promo": 150000,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "bahan": "Vinyl",
+      "jenis": "Indoor",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Banner vinyl ukuran 3x1 m, cocok untuk promosi indoor maupun event."
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "id": "PKG001",
+    "category": "Packaging",
+    "nama": "Box Kardus Standar",
+    "rating": [{ "user": "Rina", "bintang": 5, "komentar": "Kokoh dan awet." }],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://jualkardus-box.com/img/produk/standard/standard4.jpg",
+        "image2": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/11/22/1296e68a-39d4-4ebe-b4a8-1f47183c1c8c.jpg",
+        "image3": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/7/16/7bb752fd-ac67-4feb-b4b4-3cd4a81f7908.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Cokelat"],
+    "quantity": 50,
+    "satuan": "unit",
+    "ukuran": "30x20x15 cm",
+    "harga": 10000,
+    "harga_promo": 9000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Kardus",
+      "jenis": "Standar",
+      "ketebalan": "3mm"
+    },
+    "deskripsi": "Box kardus standar ukuran 30x20x15 cm, kuat dan cocok untuk pengiriman produk ringan hingga sedang."
+  },
+  {
+    "id": "PKG002",
+    "category": "Packaging",
+    "nama": "Amplop Cokelat Kraft",
+    "rating": [
+      { "user": "Agus", "bintang": 4, "komentar": "Bagus tapi tipis." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://img.lazcdn.com/g/p/1157d2a8be0a629a89db0ac50786b495.jpg",
+        "image2": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/4/17/66ab7314-f787-4a9f-8274-6ab829c09e0c.jpg",
+        "image3": "https://image1ws.indotrading.com/s3/productimages/webp/co268575/p1352475/w600-h600/68aee503-c1f0-48c0-9774-61e19a147659.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Cokelat"],
+    "quantity": 200,
+    "satuan": "pcs",
+    "ukuran": "23x12 cm",
+    "harga": 5000,
+    "harga_promo": 4000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Kraft Paper",
+      "jenis": "Amplop",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Amplop kraft cokelat ukuran 23x12 cm, cocok untuk surat atau dokumen kecil."
+  },
+  {
+    "id": "PKG003",
+    "category": "Packaging",
+    "nama": "Bubble Wrap Roll 50cm x 10m",
+    "rating": [
+      {
+        "user": "Lina",
+        "bintang": 5,
+        "komentar": "Melindungi barang dengan baik."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://www.stratasports.co.nz/wp-content/uploads/2024/01/roll-and-box-in-garden-2.jpg",
+        "image2": "https://hafshurempire.com/wp-content/uploads/2022/07/IMG-20201224-WA0080.jpg",
+        "image3": "https://id-live-01.slatic.net/p/a5335268c13ea0e8fe56cadf70f81554.png"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Transparan"],
+    "quantity": 10,
+    "satuan": "roll",
+    "ukuran": "50cm x 10m",
+    "harga": 25000,
+    "harga_promo": 20000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Plastik",
+      "jenis": "Bubble Wrap",
+      "ketebalan": "5mm"
+    },
+    "deskripsi": "Bubble wrap roll 50cm x 10m, melindungi barang dari benturan saat pengiriman."
+  },
+  {
+    "id": "PKG004",
+    "category": "Packaging",
+    "nama": "Tas Kertas Kraft",
+    "rating": [
+      {
+        "user": "Tono",
+        "bintang": 4,
+        "komentar": "Kuat tapi handle agak tipis."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://s.alicdn.com/@sc04/kf/H15ea3bf95ff74960abcbe8cd4f41493cr.jpg",
+        "image2": "https://www.percetakantaskertas.com/wp-content/uploads/2024/05/16.-Percetakantaskertas.com_Jual-Paper-Bag-Snack-Handle-Pond-Batik-Siap-Pakai-2.jpg",
+        "image3": "https://img.lazcdn.com/g/p/4da4a75c74e5b82f446f7fb01bb223df.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Cokelat"],
+    "quantity": 100,
+    "satuan": "pcs",
+    "ukuran": "25x35 cm",
+    "harga": 8000,
+    "harga_promo": 7000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Kraft Paper",
+      "jenis": "Paper Bag",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Tas kertas kraft ukuran 25x35 cm, cocok untuk packaging produk retail dan souvenir."
+  },
+  {
+    "id": "PKG005",
+    "category": "Packaging",
+    "nama": "Box Lipat Karton",
+    "rating": [
+      { "user": "Dian", "bintang": 5, "komentar": "Mudah dirakit dan kokoh." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://id.mlcustompackagingbox.com/uploads/201914160/folding-carton-box-for-cup-with-branded-logo201905061909114489443.jpg",
+        "image2": "https://s.alicdn.com/@sc04/kf/Hbf03b02122ae4864990c635c1b25f5fdi/Insulated-Frozen-Food-Carton-Boxes-and-Shipping-Containers-for-Vitamin-Essence-Packaging.jpg",
+        "image3": "https://i.pinimg.com/564x/79/ff/05/79ff0597ec09dd2cc0f7fa905bfd2192.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Cokelat"],
+    "quantity": 60,
+    "satuan": "unit",
+    "ukuran": "40x30x20 cm",
+    "harga": 15000,
+    "harga_promo": 13000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Karton",
+      "jenis": "Folding Box",
+      "ketebalan": "4mm"
+    },
+    "deskripsi": "Box lipat karton ukuran 40x30x20 cm, praktis dan kokoh untuk packing produk."
+  },
+  {
+    "id": "PKG006",
+    "category": "Packaging",
+    "nama": "Plastik OPP Transparan",
+    "rating": [
+      {
+        "user": "Sari",
+        "bintang": 4,
+        "komentar": "Bagus untuk kemasan makanan."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://www.javaplas.com/wp-content/uploads/2023/10/side-seal-.png",
+        "image2": "https://www.javaplas.com/wp-content/uploads/2023/11/eatwell-resize.jpg",
+        "image3": "https://www.javaplas.com/wp-content/uploads/2023/11/kuku-maca-editann.jpg"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Transparan"],
+    "quantity": 500,
+    "satuan": "pcs",
+    "ukuran": "20x30 cm",
+    "harga": 2000,
+    "harga_promo": 1500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "OPP",
+      "jenis": "Plastik Kemasan",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Plastik OPP transparan ukuran 20x30 cm, cocok untuk kemasan makanan dan produk ringan."
+  },
+  {
+    "id": "PKG007",
+    "category": "Packaging",
+    "nama": "Box Mika Transparan",
+    "rating": [
+      {
+        "user": "Fajar",
+        "bintang": 5,
+        "komentar": "Bagus untuk display produk."
+      }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://paperlicious.id/wp-content/uploads/2023/05/DSCF9732-scaled.jpg",
+        "image2": "https://risepack.id/wp-content/uploads/2020/09/Snack-Box-Jendela.png",
+        "image3": "https://cahayabarumulia.co.id/cdn/shop/files/FOODPACKAGING_com-01_c08e981b-5462-479e-aefa-fa1d63aed610.png"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Transparan"],
+    "quantity": 80,
+    "satuan": "unit",
+    "ukuran": "25x15x10 cm",
+    "harga": 12000,
+    "harga_promo": 10000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Mika",
+      "jenis": "Box Display",
+      "ketebalan": "2mm"
+    },
+    "deskripsi": "Box mika transparan untuk display produk, ringan tapi cukup kuat."
+  },
+  {
+    "id": "PKG008",
+    "category": "Packaging",
+    "nama": "Karton Lipat Makanan",
+    "rating": [
+      { "user": "Lia", "bintang": 4, "komentar": "Cocok untuk snack." }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://m.indonesian.printedpaperbox.com/photo/pl86275676-rak_promosi_siap_pakai_merobek_kotak_karton_lipat_penghitung_makanan_ringan.jpg",
+        "image2": "https://www.holidaypac.com/uploadfile/2023/12/29/20231229101905t6A8RW.jpg",
+        "image3": "https://customkemasan.com/wp-content/uploads/2019/02/custom-kemasan-300x208.png"
+      }
+    ],
+    "label": "Standard",
+    "pengerjaan": "2 hari kerja",
+    "warna": ["Cokelat"],
+    "quantity": 200,
+    "satuan": "pcs",
+    "ukuran": "15x10x5 cm",
+    "harga": 4000,
+    "harga_promo": 3500,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Karton",
+      "jenis": "Food Box",
+      "finishing": "Matte"
+    },
+    "deskripsi": "Karton lipat untuk makanan/snack, aman untuk dikonsumsi dan praktis."
+  },
+  {
+    "id": "PKG009",
+    "category": "Packaging",
+    "nama": "Tas Plastik HDPE",
+    "rating": [
+      {
+        "user": "Wawan",
+        "bintang": 4,
+        "komentar": "Kuat tapi tipis di handle."
+      }
+    ],
+    "penilaian": 4,
+    "imageUrl": [
+      {
+        "image1": "https://image.indonetwork.co.id/products/thumbs/350x350/2019/05/02/8c154f77-bfb6-4dd6-8125-e8ff4831255a.jpg",
+        "image2": "https://image.indonetwork.co.id/products/thumbs/350x350/2019/05/02/9829f6a7-7195-4c8d-92b2-8d07a63a4bf2.jpg",
+        "image3": "https://image.indonetwork.co.id/products/thumbs/350x350/2019/05/02/e2ac2a1c-598c-4efb-814d-07924c30767d.jpg"
+      }
+    ],
+    "label": "Promo",
+    "pengerjaan": "1 hari kerja",
+    "warna": ["Transparan", "Putih"],
+    "quantity": 300,
+    "satuan": "pcs",
+    "ukuran": "30x40 cm",
+    "harga": 1500,
+    "harga_promo": 1200,
+    "status": "active",
+    "is_recommended": false,
+    "spesifikasi": {
+      "bahan": "HDPE",
+      "jenis": "Plastic Bag",
+      "finishing": "Glossy"
+    },
+    "deskripsi": "Tas plastik HDPE ukuran 30x40 cm, cocok untuk kemasan produk retail."
+  },
+  {
+    "id": "PKG010",
+    "category": "Packaging",
+    "nama": "Kotak Gift Box Luxury",
+    "rating": [
+      { "user": "Dewi", "bintang": 5, "komentar": "Elegan dan kokoh." }
+    ],
+    "penilaian": 5,
+    "imageUrl": [
+      {
+        "image1": "https://id.mlcustompackagingbox.com/uploads/14160/navy-blue-textured-paper-gift-box7bedb.jpg",
+        "image2": "https://indonesian.printedpaperbox.com/photo/pl158835839-custom_printing_luxury_rigid_paper_gift_box_with_pillow_for_watch_and_bracelet.jpg",
+        "image3": "https://m.indonesian.paper-giftsbox.com/photo/pt94959707-art_paper_magnetic_closure_gift_box_with_handle_printing_logo.jpg"
+      }
+    ],
+    "label": "Best Seller",
+    "pengerjaan": "3 hari kerja",
+    "warna": ["Hitam", "Emas"],
+    "quantity": 50,
+    "satuan": "unit",
+    "ukuran": "20x20x10 cm",
+    "harga": 50000,
+    "harga_promo": 45000,
+    "status": "active",
+    "is_recommended": true,
+    "spesifikasi": {
+      "bahan": "Karton + Foil",
+      "jenis": "Gift Box",
+      "finishing": "Luxury"
+    },
+    "deskripsi": "Kotak gift box ukuran 20x20x10 cm dengan finishing luxury, cocok untuk hadiah eksklusif."
+  }
+]

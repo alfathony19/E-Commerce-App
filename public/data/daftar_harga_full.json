@@ -1,0 +1,518 @@
+[
+  {
+    "id": "undangan1",
+    "nama": "Undangan",
+    "bahan": "Concorde, cetak berwarna, ukuran ±14,8 cm x 20,5 cm, pakai amplop",
+    "harga": 6000
+  },
+  {
+    "id": "undangan2",
+    "nama": "Undangan",
+    "bahan": "Full Colour, ukuran ±14,8 cm x 20,5 cm, Art paper 260gr, Laminating doff/Glossy",
+    "harga": 4000
+  },
+  {
+    "id": "paket_cd",
+    "nama": "Paket CD",
+    "bahan": "CD-R, Cover art paper 150gr, Full Colour, Box CD hitam + Burning",
+    "harga": 15000
+  },
+  {
+    "id": "buku",
+    "nama": "Buku",
+    "bahan": "Ukuran A5, Cover art paper 260 gr laminasi dof, Cetak Full Color, Isi Hvs 100gr full color 100 halaman",
+    "harga": 60000
+  },
+  {
+    "id": "notebook1",
+    "nama": "Notebook",
+    "bahan": "Ukuran A5, Cover art paper 260 gr, Laminasi Doff/Glossy, Full Color, Isi Art Paper 120gr Full Color 100 halaman",
+    "harga": 35000
+  },
+  {
+    "id": "sertifikat",
+    "nama": "Sertifikat",
+    "bahan": "Jenis kertas: Concorde, Art Paper, Cetak full color, ukuran A4",
+    "harga": 3000
+  },
+  {
+    "id": "kalender_gantung",
+    "nama": "Kalender Gantung",
+    "bahan": "62 cm x 40 cm, Ring kawat, Isi full colour 1 muka, Art Paper 310 gr, Laminating doff, Jilid ring kawat 3:1, 13 halaman termasuk cover",
+    "harga": 70000
+  },
+  {
+    "id": "kalender_meja",
+    "nama": "Kalender Meja",
+    "bahan": "20 cm x 19 cm, Isi full colour 2 muka, Tatakan duplek 360 gr, Ring kawat 3:1, Art Paper 260 gr, Laminating doff, Isi 13 lembar/26 halaman",
+    "harga": 35000
+  },
+  {
+    "id": "kotak_makanan",
+    "nama": "Kotak Box Makanan",
+    "bahan": "Dus 16 x 16 x 6 cm, Duplex coated grey back 250gr",
+    "harga": 3000
+  },
+  {
+    "id": "map1",
+    "nama": "Map",
+    "bahan": "Isi A4, Art paper 310 gram, tinta 1 warna full block",
+    "harga": 12000
+  },
+  {
+    "id": "map2",
+    "nama": "Map",
+    "bahan": "Isi A4, Bahan Buffalo, tinta 1 warna",
+    "harga": 6000
+  },
+  {
+    "id": "kartu_nama1",
+    "nama": "Kartu Nama",
+    "bahan": "Art paper 260 gram, 1 muka, tinta Full Colour, isi 100 pcs",
+    "harga": 30000
+  },
+  {
+    "id": "kartu_nama2",
+    "nama": "Kartu Nama",
+    "bahan": "Art paper 260 gram, 2 muka, tinta Full Colour, isi 100 pcs",
+    "harga": 40000
+  },
+  {
+    "id": "kartu_nama3",
+    "nama": "Kartu Nama",
+    "bahan": "Art paper 260 gram, 1 muka, tinta Full Colour, laminasi 1 muka, isi 100 pcs",
+    "harga": 40000
+  },
+  {
+    "id": "kartu_nama4",
+    "nama": "Kartu Nama",
+    "bahan": "Art paper 260 gram, 2 muka, tinta Full Colour, laminasi 1 muka, isi 100 pcs",
+    "harga": 50000
+  },
+  {
+    "id": "kartu_nama5",
+    "nama": "Kartu Nama",
+    "bahan": "Art paper 260 gram, 1 muka, tinta Full Colour, Foil, isi 100 pcs",
+    "harga": 70000
+  },
+  {
+    "id": "amplop1",
+    "nama": "Amplop",
+    "bahan": "Amplop Jaya 110 mm x 230 mm (DL+), tinta 1 warna, isi 100 pcs",
+    "harga": 80000
+  },
+  {
+    "id": "amplop2",
+    "nama": "Amplop",
+    "bahan": "Amplop Jaya 110 mm x 230 mm (DL+), cetak full color, isi 100 pcs",
+    "harga": 125000
+  },
+  {
+    "id": "print1",
+    "nama": "Print",
+    "bahan": "A3, full color HVS 80 gram, 1 muka",
+    "harga": 3500
+  },
+  {
+    "id": "print2",
+    "nama": "Print",
+    "bahan": "A3, full color HVS 100 gram, 1 muka",
+    "harga": 3700
+  },
+  {
+    "id": "print3",
+    "nama": "Print",
+    "bahan": "A3, full color Art Paper 120 gr, 1 muka",
+    "harga": 4000
+  },
+  {
+    "id": "print4",
+    "nama": "Print",
+    "bahan": "A3, full color Art Paper 150 gr, 1 muka",
+    "harga": 4000
+  },
+  {
+    "id": "print5",
+    "nama": "Print",
+    "bahan": "A3, full color Art Paper 210 gr, 1 muka",
+    "harga": 4200
+  },
+  {
+    "id": "print6",
+    "nama": "Print",
+    "bahan": "A3, full color Art Paper 260 gr, 1 muka",
+    "harga": 4500
+  },
+  {
+    "id": "print7",
+    "nama": "Print",
+    "bahan": "A3, full color Art Paper 310 gr, 1 muka",
+    "harga": 5000
+  },
+  {
+    "id": "print8",
+    "nama": "Print",
+    "bahan": "A3, full color Concorde tebal, 1 muka",
+    "harga": 5000
+  },
+  {
+    "id": "print9",
+    "nama": "Print",
+    "bahan": "A3, full color Stiker kromo, 1 muka",
+    "harga": 5000
+  },
+  {
+    "id": "print10",
+    "nama": "Print",
+    "bahan": "A3, full color Photo Print Paper, 1 muka",
+    "harga": 5000
+  },
+  {
+    "id": "print11",
+    "nama": "Print",
+    "bahan": "A3, full color HVS 80 gram, 2 muka",
+    "harga": 6000
+  },
+  {
+    "id": "print12",
+    "nama": "Print",
+    "bahan": "A3, full color HVS 100 gram, 2 muka",
+    "harga": 6000
+  },
+  {
+    "id": "print13",
+    "nama": "Print",
+    "bahan": "A3, full color Art Paper 120 gr, 2 muka",
+    "harga": 6000
+  },
+  {
+    "id": "print14",
+    "nama": "Print",
+    "bahan": "A3, full color Art Paper 150 gr, 2 muka",
+    "harga": 6000
+  },
+  {
+    "id": "print15",
+    "nama": "Print",
+    "bahan": "A3, full color Art Paper 210 gr, 2 muka",
+    "harga": 6000
+  },
+  {
+    "id": "print16",
+    "nama": "Print",
+    "bahan": "A3, full color Art Paper 260 gr, 2 muka",
+    "harga": 6000
+  },
+  {
+    "id": "print17",
+    "nama": "Print",
+    "bahan": "A3, full color Art Paper 310 gr, 2 muka",
+    "harga": 6000
+  },
+  {
+    "id": "print18",
+    "nama": "Print",
+    "bahan": "A3, full color Concorde tebal, 2 muka",
+    "harga": 6000
+  },
+  {
+    "id": "print19",
+    "nama": "Print",
+    "bahan": "A3, full color Print n Cut Stiker Vinyl Glossy/Matt",
+    "harga": 20000
+  },
+  {
+    "id": "print20",
+    "nama": "Print",
+    "bahan": "A3, full color Stiker Vinyl Transparan/metalized/silver/hologram",
+    "harga": 30000
+  },
+  {
+    "id": "print21",
+    "nama": "Print",
+    "bahan": "A3, full color Print n Cut chromo",
+    "harga": 15000
+  },
+  {
+    "id": "spanduk",
+    "nama": "Spanduk",
+    "bahan": "Flexy, ongkos cetak per 1 m2",
+    "harga": 18000
+  },
+  {
+    "id": "jilid_ring",
+    "nama": "Jilid Ring",
+    "bahan": "Ukuran Folio, 50 lembar HVS",
+    "harga": 10000
+  },
+  {
+    "id": "fotocopy1",
+    "nama": "Fotocopy",
+    "bahan": "A4, Cetak 1 muka, BW",
+    "harga": 250
+  },
+  {
+    "id": "fotocopy2",
+    "nama": "Fotocopy",
+    "bahan": "A4, Cetak 2 muka, BW",
+    "harga": 400
+  },
+  {
+    "id": "brosur1",
+    "nama": "Brosur",
+    "bahan": "ArtPaper 120gr, Ukuran A2, Full Colour, dilipat 4, Cetak 4/4",
+    "harga": 20000
+  },
+  {
+    "id": "kartu_praktikum",
+    "nama": "Kartu Praktikum/Gudang",
+    "bahan": "Kertas Cover, Karton 150gr, Ukuran A5",
+    "harga": 2500
+  },
+  {
+    "id": "blanko_transkrip",
+    "nama": "Blanko Transkrip",
+    "bahan": "Kertas Concorde 80gr, cetak 1 warna, ukuran A4",
+    "harga": 280000
+  },
+  {
+    "id": "kop_amplop1",
+    "nama": "Cetak Kop Amplop Coklat",
+    "bahan": "Merk Samson, Ukuran A4/Folio, cetak 1 warna, isi 100",
+    "harga": 125000
+  },
+  {
+    "id": "kop_amplop2",
+    "nama": "Cetak Kop Amplop Coklat",
+    "bahan": "Merk Samson, Ukuran A3/Folio, cetak 1 warna, isi 100",
+    "harga": 135000
+  },
+  {
+    "id": "map_tebal",
+    "nama": "Map Tebal",
+    "bahan": "Ukuran F4, Warna 1 warna, tulisan emas embos foil, bahan linen",
+    "harga": 15000
+  },
+  {
+    "id": "map_biola",
+    "nama": "Map Biola",
+    "bahan": "Isi A4, Bahan Buffalo, tinta 1 warna",
+    "harga": 10000
+  },
+  {
+    "id": "hardcover_a4",
+    "nama": "Hardcover Buku/Skripsi",
+    "bahan": "Karton 30 A, Art Paper 120gr laminasi Doff/Glossy, Ukuran A4",
+    "harga": 35000
+  },
+  {
+    "id": "hardcover_a5",
+    "nama": "Hardcover Buku/Skripsi",
+    "bahan": "Karton 30 A, Art Paper 120gr laminasi Doff/Glossy, Ukuran A5",
+    "harga": 30000
+  },
+  {
+    "id": "brosur2",
+    "nama": "Brosur",
+    "bahan": "ArtPaper 120gr, Ukuran A4, Full Colour, dilipat 4, Cetak 4/4 digital",
+    "harga": 2750
+  },
+  {
+    "id": "brosur3",
+    "nama": "Brosur",
+    "bahan": "ArtPaper 150gr, Ukuran A4, Full Colour, dilipat 4, Cetak 4/4 digital",
+    "harga": 3000
+  },
+  {
+    "id": "brosur4",
+    "nama": "Brosur",
+    "bahan": "ArtPaper 120gr, Ukuran A4, Full Colour, dilipat, Cetak 4/4 Offset",
+    "harga": 1000000
+  },
+  {
+    "id": "brosur5",
+    "nama": "Brosur",
+    "bahan": "ArtPaper 150gr, Ukuran A4, Full Colour, dilipat, Cetak 4/4 Offset",
+    "harga": 1200000
+  },
+  {
+    "id": "kaos_pendek",
+    "nama": "Kaos Oblong Lengan Pendek",
+    "bahan": "Cotton Combat 30S, Full Color",
+    "harga": 125000
+  },
+  {
+    "id": "kaos_panjang",
+    "nama": "Kaos Oblong Lengan Panjang",
+    "bahan": "Cotton Combat 30S, Full Color",
+    "harga": 150000
+  },
+  {
+    "id": "kantong_seminar",
+    "nama": "Kantong Seminar",
+    "bahan": "Linen, Finishing Jahit/press, Sablon 1 warna, 25x7x35 cm",
+    "harga": 10000
+  },
+  {
+    "id": "kertas_folio",
+    "nama": "Kertas Folio Bergaris dengan Kop",
+    "bahan": "HVS 70gr, ukuran Folio, 4 halaman (BB), cetak 1 warna",
+    "harga": 180000
+  },
+  {
+    "id": "gantungan_kunci",
+    "nama": "Gantungan Kunci",
+    "bahan": "Acrylic, 2x3 cm, cetak full color, tebal 3mm",
+    "harga": 15000
+  },
+  {
+    "id": "notebook2",
+    "nama": "Notebook",
+    "bahan": "Isi 50 lembar HVS 80gr, cetak 1 warna, ukuran A5, Finishing ring kawat",
+    "harga": 10000
+  },
+  {
+    "id": "mug",
+    "nama": "Mug",
+    "bahan": "Diameter 8 cm",
+    "harga": 20000
+  },
+  {
+    "id": "payung_lipat",
+    "nama": "Payung Lipat",
+    "bahan": "Sablon 2 sisi + sarung, min order 100 pcs",
+    "harga": 57000
+  },
+  {
+    "id": "payung_golf",
+    "nama": "Payung Golf",
+    "bahan": "Sablon 2 sisi + sarung, min order 100 pcs",
+    "harga": 60000
+  },
+  {
+    "id": "rollup_60x160",
+    "nama": "Roll Up Banner",
+    "bahan": "Luster, ukuran 60x160 cm",
+    "harga": 350000
+  },
+  {
+    "id": "rollup_80x200",
+    "nama": "Roll Up Banner",
+    "bahan": "Luster, ukuran 80x200 cm",
+    "harga": 450000
+  },
+  {
+    "id": "xbanner",
+    "nama": "X Banner",
+    "bahan": "Flexy, ukuran 60x160 cm",
+    "harga": 80000
+  },
+  {
+    "id": "foto_canvas",
+    "nama": "Poto Canvas",
+    "bahan": "Canvas Glossy, cetak full color per m2",
+    "harga": 200000
+  },
+  {
+    "id": "flyer1",
+    "nama": "Flyer",
+    "bahan": "Art paper 100gr, A5, Full color 1 muka, Offset",
+    "harga": 350000
+  },
+  {
+    "id": "flyer2",
+    "nama": "Flyer",
+    "bahan": "Art paper 100gr, A5, Full color 2 muka, Offset",
+    "harga": 650000
+  },
+  {
+    "id": "flyer3",
+    "nama": "Flyer",
+    "bahan": "Art paper 100gr, A5, Full color 1 muka, Digital",
+    "harga": 650000
+  },
+  {
+    "id": "idcard1",
+    "nama": "ID Card",
+    "bahan": "PVC, cetak 1 muka",
+    "harga": 7500
+  },
+  {
+    "id": "idcard2",
+    "nama": "ID Card",
+    "bahan": "PVC, cetak 2 muka",
+    "harga": 12000
+  },
+  {
+    "id": "flyer4",
+    "nama": "Flyer",
+    "bahan": "Art paper 100gr, A5, Full color 2 muka, Digital",
+    "harga": 800000
+  },
+  {
+    "id": "kerudung",
+    "nama": "Kerudung",
+    "bahan": "Kain Voal, full color, laser cut",
+    "harga": 200000
+  },
+  {
+    "id": "cd_cover",
+    "nama": "CD Cover",
+    "bahan": "Stiker Kromo",
+    "harga": 2000
+  },
+  {
+    "id": "paper_bag",
+    "nama": "Paper Bag",
+    "bahan": "Linen, Finishing Jahit/press, Sablon 1 warna, 25x7x35 cm",
+    "harga": 15000
+  },
+  {
+    "id": "gelang_security",
+    "nama": "Gelang Event Security",
+    "bahan": "Min 100 pcs, ukuran 2x30 cm",
+    "harga": 5000
+  },
+  {
+    "id": "gelang_nonsecurity",
+    "nama": "Gelang Event Non Security",
+    "bahan": "Min 100 pcs, ukuran 2x30 cm",
+    "harga": 2500
+  },
+  {
+    "id": "tumbler",
+    "nama": "Tumbler",
+    "bahan": "Insert paper cetak full color, tumbler plastik",
+    "harga": 30000
+  },
+  {
+    "id": "hangtag_lingkar",
+    "nama": "Hangtag",
+    "bahan": "Lingkaran 7 cm",
+    "harga": 700
+  },
+  {
+    "id": "hangtag_kotak",
+    "nama": "Hangtag",
+    "bahan": "Kotak 7x10 cm",
+    "harga": 800
+  },
+  {
+    "id": "sticker_craft",
+    "nama": "Sticker Paper Craft",
+    "bahan": "Ukuran A3, Full color",
+    "harga": 20000
+  },
+  {
+    "id": "kop_surat1",
+    "nama": "Kop Surat",
+    "bahan": "Full color, HVS 80gr, A4",
+    "harga": 250000
+  },
+  {
+    "id": "kop_surat2",
+    "nama": "Kop Surat",
+    "bahan": "1 warna, HVS 80gr, A4",
+    "harga": 125000
+  }
+]
