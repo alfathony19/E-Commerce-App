@@ -7,7 +7,7 @@ import { mapProductToCartItem } from "../utils/cartMapper";
 export const CartProvider = ({ children }: { children: ReactNode }) => {
   const [cart, setCart] = useState<CartItem[]>([]);
 
-const addToCart = (product: Product) => {
+const addToCart = (product: Product | CartItem) => {
   setCart((prev) => {
     const exist = prev.find((item) => item.id === product.id);
     if (exist) {
@@ -17,7 +17,13 @@ const addToCart = (product: Product) => {
           : item
       );
     }
-    return [...prev, mapProductToCartItem(product)];
+
+    // 🔥 kalau udah CartItem langsung push
+    // kalau masih Product → convert dulu ke CartItem
+    const newItem: CartItem =
+      "cartQuantity" in product ? product : mapProductToCartItem(product);
+
+    return [...prev, newItem];
   });
 };
 

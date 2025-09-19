@@ -1,9 +1,9 @@
 // src/types/user.ts
-import type { Address, Timestamps } from "./common";
+import type { Address, Timestamp } from "./common";
 
 export type UserStatus = "active" | "banned" | "deleted";
 
-export interface User extends Timestamps {
+export interface User extends Timestamp {
   uid: string;
   email: string | null;
   fullName: string;

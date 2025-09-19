@@ -76,9 +76,17 @@ export const mapFirestoreProduct = (
     nama: raw.nama || raw.name || "Produk Tanpa Nama",
     name: raw.nama || raw.nama || "Produk Tanpa Nama",
     deskripsi: raw.deskripsi || raw.description || "",
+
     harga: raw.harga ?? raw.price ?? 0,
+    hargaBelanja: raw.hargaBelanja ?? 0, // 🔥 wajib ada
+    hargaPromo:
+      raw.hargaPromo ??
+      raw.harga_promo ??
+      raw.promoPrice ??
+      raw.promo_price ??
+      null,
+
     price: raw.price ?? raw.harga ?? 0,
-    hargaPromo: raw.hargaPromo ?? raw.harga_promo ?? raw.promoPrice ?? null,
 
     // ✅ aman & ketat type
     imageUrl: safeImageUrl(raw.imageUrl),
@@ -101,3 +109,4 @@ export const mapFirestoreProduct = (
     updatedAt: toIso(raw.updatedAt),
   };
 };
+

@@ -110,7 +110,9 @@ const ReportsPage = () => {
           <p className="!text-purple-100 font-medium">Laba Bersih</p>
           <p className="text-2xl font-extrabold">
             {formatCurrency(
-              Math.round(orders.reduce((sum, o) => sum + o.total, 0) * 0.7)
+              Math.round(
+                orders.reduce<number>((sum, o) => sum + o.total, 0) * 0.7
+              )
             )}
           </p>
           <p className="text-xs !text-purple-200 mt-1">
