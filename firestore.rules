@@ -2,86 +2,51 @@ rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
 
-    // 🔓 Public boleh baca semua produk
-    match /ATK/{docId} {
-      allow read: if true;
-      allow write: if false;
-    }
-    match /Banner/{docId} {
-      allow read: if true;
-      allow write: if false;
-    }
-    match /Brosur-Flyer/{docId} {
-      allow read: if true;
-      allow write: if false;
-    }
-    match /Copy-and-Print/{docId} {
-      allow read: if true;
-      allow write: if false;
-    }
-    match /Name-Card-Id/{docId} {
-      allow read: if true;
-      allow write: if false;
-    }
-    match /Packaging/{docId} {
-      allow read: if true;
-      allow write: if false;
-    }
-    match /Photos/{docId} {
-      allow read: if true;
-      allow write: if false;
-    }
-    match /Promos/{docId} {
-      allow read: if true;
-      allow write: if false;
-    }
-    match /Sticker-Logo/{docId} {
-      allow read: if true;
-      allow write: if false;
-    }
-    match /Undangan/{docId} {
-      allow read: if true;
-      allow write: if false;
+    // 🔓 Public bisa baca semua kategori produk
+    match /{collection}/{docId} {
+      allow read: if
+        collection in [
+          'ATK', 'Banner', 'Brosur-Flyer', 'Copy-and-Print',
+          'Name-Card-Id', 'Packaging', 'Photos',
+          'Promos', 'Sticker-Logo', 'Undangan'
+        ];
+      allow write: if false; // public ga boleh nulis
     }
 
-    // 📝 Reviews
+    // 🔓 Reviews
     match /reviews/{reviewId} {
       allow read: if true;
-      allow create: if request.auth != null;
-      allow update, delete: if request.auth != null && request.auth.uid == resource.data.userId;
+      allow create: if request.auth != null; // user login bisa bikin review
+      allow update, delete: if request.auth != null &&
+        request.auth.uid == resource.data.userId;
     }
 
-    // 📦 Orders
+    // 🔒 Orders (hanya owner & admin)
     match /orders/{orderId} {
       allow create: if request.auth != null;
-      allow read, update, delete: if request.auth != null && (
-        request.auth.token.admin == true ||
-        resource.data.owner == request.auth.uid ||
-        resource.data.userId == request.auth.uid
-      );
+      allow read, update, delete: if request.auth != null &&
+        (
+          request.auth.token.admin == true ||
+          resource.data.owner == request.auth.uid ||
+          resource.data.userId == request.auth.uid
+        );
     }
 
-    // 🛒 Carts
+    // 🔒 Carts
     match /carts/{cartId} {
       allow create: if request.auth != null;
-      allow read, update, delete: if request.auth != null && (
-        request.auth.token.admin == true ||
-        request.auth.uid == resource.data.owner ||
-        request.auth.uid == resource.data.userId
-      );
+      allow read, update, delete: if request.auth != null &&
+        (
+          request.auth.token.admin == true ||
+          request.auth.uid == resource.data.owner ||
+          request.auth.uid == resource.data.userId
+        );
     }
 
-    // ⚙️ Admin only
-    match /admins/{docId} {
-      allow read, write: if request.auth != null && request.auth.token.admin == true;
-    }
-    match /adminLogs/{docId} {
-      allow read, write: if request.auth != null && request.auth.token.admin == true;
-    }
-
-    // 🔒 Default catch-all (amanin sisanya)
-    match /{document=**} {
-      allow read, write: if false;
+    // 🔒 Admin only collections
+    match /{adminColl}/{docId} {
+      allow read, write: if request.auth != null &&
+        request.auth.token.admin == true;
     }
   }
 }
