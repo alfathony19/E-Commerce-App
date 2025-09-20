@@ -11,16 +11,16 @@ service cloud.firestore {
 
   match /databases/{database}/documents {
 
-    // 🔓 Public bisa lihat semua produk
+    // 🔓 Produk (publik bisa lihat)
     match /products/{productId} {
-      allow read: if true;         // semua orang boleh baca product
+      allow read: if true;
       allow create, update, delete: if isAdmin();
     }
 
-    // 🔓 Public bisa lihat semua reviews
+    // 🔓 Reviews (publik bisa lihat)
     match /reviews/{reviewId} {
-      allow read: if true;         // semua orang bisa baca review
-      allow create: if isSignedIn(); // user login bisa bikin review
+      allow read: if true;
+      allow create: if isSignedIn(); 
       allow update, delete: if isAdmin() || request.auth.uid == resource.data.userId;
     }
 
@@ -35,8 +35,8 @@ service cloud.firestore {
       allow create: if isSignedIn();
       allow read, update, delete: if isAdmin()
         || (isSignedIn() && (
-            resource.data.owner == request.auth.uid ||
-            resource.data.userId == request.auth.uid
+            (resource.data.owner != null && resource.data.owner == request.auth.uid) ||
+            (resource.data.userId != null && resource.data.userId == request.auth.uid)
         ));
     }
 
@@ -44,17 +44,19 @@ service cloud.firestore {
     match /carts/{cartId} {
       allow create: if isSignedIn();
       allow read, update, delete: if isAdmin()
-        || request.auth.uid == resource.data.owner
-        || request.auth.uid == resource.data.userId;
+        || (isSignedIn() && (
+            (resource.data.owner != null && resource.data.owner == request.auth.uid) ||
+            (resource.data.userId != null && resource.data.userId == request.auth.uid)
+        ));
     }
 
     // 🎟️ Promos
-    match /Promos/{promoId} {
+    match /promos/{promoId} {
       allow read: if true;
       allow write: if isAdmin();
     }
 
-    // 👑 Admin-only collections
+    // 👑 Admin-only
     match /admins/{docId} {
       allow read, write: if isAdmin();
     }
@@ -71,10 +73,19 @@ service cloud.firestore {
       allow read, write: if isAdmin();
     }
 
-    // Fallback
-    match /{document=**} {
-      allow read: if isSignedIn();
+    // ✅ Koleksi publik lain (misal categories, banners, dll)
+    match /categories/{docId} {
+      allow read: if true;
       allow write: if isAdmin();
+    }
+    match /banners/{docId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Fallback → deny semua yg nggak ke-define
+    match /{document=**} {
+      allow read, write: if false;
     }
   }
 }
